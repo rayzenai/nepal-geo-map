@@ -1,0 +1,4952 @@
+[
+  {
+    "id": "F.P1.D12.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Taplejung-1",
+    "nameNe": "ताप्लेजुङ-1",
+    "slug": "taplejung-1",
+    "districtId": "P1.D12",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D09.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Sankhuwasabha-1",
+    "nameNe": "संखुवासभा-1",
+    "slug": "sankhuwasabha-1",
+    "districtId": "P1.D09",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D10.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Solukhumbu-1",
+    "nameNe": "सोलुखुम्बु-1",
+    "slug": "solukhumbu-1",
+    "districtId": "P1.D10",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D07.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Okhaldhunga-1",
+    "nameNe": "ओखलढुङ्गा-1",
+    "slug": "okhaldhunga-1",
+    "districtId": "P1.D07",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D05.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Khotang-1",
+    "nameNe": "खोटाङ-1",
+    "slug": "khotang-1",
+    "districtId": "P1.D05",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D01.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Bhojpur-1",
+    "nameNe": "भोजपुर-1",
+    "slug": "bhojpur-1",
+    "districtId": "P1.D01",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D02.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Dhankuta-1",
+    "nameNe": "धनकुटा-1",
+    "slug": "dhankuta-1",
+    "districtId": "P1.D02",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D13.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Terhathum-1",
+    "nameNe": "तेह्रथुम-1",
+    "slug": "terhathum-1",
+    "districtId": "P1.D13",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D08.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Panchthar-1",
+    "nameNe": "पाँचथर-1",
+    "slug": "panchthar-1",
+    "districtId": "P1.D08",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D03.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Ilam-1",
+    "nameNe": "इलाम-1",
+    "slug": "ilam-1",
+    "districtId": "P1.D03",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D03.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Ilam-2",
+    "nameNe": "इलाम-2",
+    "slug": "ilam-2",
+    "districtId": "P1.D03",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D04.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Jhapa-1",
+    "nameNe": "झापा-1",
+    "slug": "jhapa-1",
+    "districtId": "P1.D04",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D04.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Jhapa-2",
+    "nameNe": "झापा-2",
+    "slug": "jhapa-2",
+    "districtId": "P1.D04",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D04.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Jhapa-3",
+    "nameNe": "झापा-3",
+    "slug": "jhapa-3",
+    "districtId": "P1.D04",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D04.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Jhapa-4",
+    "nameNe": "झापा-4",
+    "slug": "jhapa-4",
+    "districtId": "P1.D04",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D04.5",
+    "type": "federal",
+    "number": 5,
+    "nameEn": "Jhapa-5",
+    "nameNe": "झापा-5",
+    "slug": "jhapa-5",
+    "districtId": "P1.D04",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D06.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Morang-1",
+    "nameNe": "मोरङ-1",
+    "slug": "morang-1",
+    "districtId": "P1.D06",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D06.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Morang-2",
+    "nameNe": "मोरङ-2",
+    "slug": "morang-2",
+    "districtId": "P1.D06",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D06.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Morang-3",
+    "nameNe": "मोरङ-3",
+    "slug": "morang-3",
+    "districtId": "P1.D06",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D06.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Morang-4",
+    "nameNe": "मोरङ-4",
+    "slug": "morang-4",
+    "districtId": "P1.D06",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D06.5",
+    "type": "federal",
+    "number": 5,
+    "nameEn": "Morang-5",
+    "nameNe": "मोरङ-5",
+    "slug": "morang-5",
+    "districtId": "P1.D06",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D06.6",
+    "type": "federal",
+    "number": 6,
+    "nameEn": "Morang-6",
+    "nameNe": "मोरङ-6",
+    "slug": "morang-6",
+    "districtId": "P1.D06",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D11.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Sunsari-1",
+    "nameNe": "सुनसरी-1",
+    "slug": "sunsari-1",
+    "districtId": "P1.D11",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D11.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Sunsari-2",
+    "nameNe": "सुनसरी-2",
+    "slug": "sunsari-2",
+    "districtId": "P1.D11",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D11.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Sunsari-3",
+    "nameNe": "सुनसरी-3",
+    "slug": "sunsari-3",
+    "districtId": "P1.D11",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D11.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Sunsari-4",
+    "nameNe": "सुनसरी-4",
+    "slug": "sunsari-4",
+    "districtId": "P1.D11",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D14.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Udayapur-1",
+    "nameNe": "उदयपुर-1",
+    "slug": "udayapur-1",
+    "districtId": "P1.D14",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P1.D14.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Udayapur-2",
+    "nameNe": "उदयपुर-2",
+    "slug": "udayapur-2",
+    "districtId": "P1.D14",
+    "provinceId": "P1"
+  },
+  {
+    "id": "F.P2.D06.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Saptari-1",
+    "nameNe": "सप्तरी-1",
+    "slug": "saptari-1",
+    "districtId": "P2.D06",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D06.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Saptari-2",
+    "nameNe": "सप्तरी-2",
+    "slug": "saptari-2",
+    "districtId": "P2.D06",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D06.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Saptari-3",
+    "nameNe": "सप्तरी-3",
+    "slug": "saptari-3",
+    "districtId": "P2.D06",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D06.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Saptari-4",
+    "nameNe": "सप्तरी-4",
+    "slug": "saptari-4",
+    "districtId": "P2.D06",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D08.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Siraha-1",
+    "nameNe": "सिराहा-1",
+    "slug": "siraha-1",
+    "districtId": "P2.D08",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D08.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Siraha-2",
+    "nameNe": "सिराहा-2",
+    "slug": "siraha-2",
+    "districtId": "P2.D08",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D08.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Siraha-3",
+    "nameNe": "सिराहा-3",
+    "slug": "siraha-3",
+    "districtId": "P2.D08",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D08.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Siraha-4",
+    "nameNe": "सिराहा-4",
+    "slug": "siraha-4",
+    "districtId": "P2.D08",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D02.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Dhanusha-1",
+    "nameNe": "धनुषा-1",
+    "slug": "dhanusha-1",
+    "districtId": "P2.D02",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D02.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Dhanusha-2",
+    "nameNe": "धनुषा-2",
+    "slug": "dhanusha-2",
+    "districtId": "P2.D02",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D02.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Dhanusha-3",
+    "nameNe": "धनुषा-3",
+    "slug": "dhanusha-3",
+    "districtId": "P2.D02",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D02.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Dhanusha-4",
+    "nameNe": "धनुषा-4",
+    "slug": "dhanusha-4",
+    "districtId": "P2.D02",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D03.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Mahottari-1",
+    "nameNe": "महोत्तरी-1",
+    "slug": "mahottari-1",
+    "districtId": "P2.D03",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D03.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Mahottari-2",
+    "nameNe": "महोत्तरी-2",
+    "slug": "mahottari-2",
+    "districtId": "P2.D03",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D03.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Mahottari-3",
+    "nameNe": "महोत्तरी-3",
+    "slug": "mahottari-3",
+    "districtId": "P2.D03",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D03.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Mahottari-4",
+    "nameNe": "महोत्तरी-4",
+    "slug": "mahottari-4",
+    "districtId": "P2.D03",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D07.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Sarlahi-1",
+    "nameNe": "सर्लाही-1",
+    "slug": "sarlahi-1",
+    "districtId": "P2.D07",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D07.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Sarlahi-2",
+    "nameNe": "सर्लाही-2",
+    "slug": "sarlahi-2",
+    "districtId": "P2.D07",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D07.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Sarlahi-3",
+    "nameNe": "सर्लाही-3",
+    "slug": "sarlahi-3",
+    "districtId": "P2.D07",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D07.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Sarlahi-4",
+    "nameNe": "सर्लाही-4",
+    "slug": "sarlahi-4",
+    "districtId": "P2.D07",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D05.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Rautahat-1",
+    "nameNe": "रौतहट-1",
+    "slug": "rautahat-1",
+    "districtId": "P2.D05",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D05.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Rautahat-2",
+    "nameNe": "रौतहट-2",
+    "slug": "rautahat-2",
+    "districtId": "P2.D05",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D05.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Rautahat-3",
+    "nameNe": "रौतहट-3",
+    "slug": "rautahat-3",
+    "districtId": "P2.D05",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D05.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Rautahat-4",
+    "nameNe": "रौतहट-4",
+    "slug": "rautahat-4",
+    "districtId": "P2.D05",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D01.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Bara-1",
+    "nameNe": "बारा-1",
+    "slug": "bara-1",
+    "districtId": "P2.D01",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D01.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Bara-2",
+    "nameNe": "बारा-2",
+    "slug": "bara-2",
+    "districtId": "P2.D01",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D01.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Bara-3",
+    "nameNe": "बारा-3",
+    "slug": "bara-3",
+    "districtId": "P2.D01",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D01.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Bara-4",
+    "nameNe": "बारा-4",
+    "slug": "bara-4",
+    "districtId": "P2.D01",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D04.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Parsa-1",
+    "nameNe": "पर्सा-1",
+    "slug": "parsa-1",
+    "districtId": "P2.D04",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D04.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Parsa-2",
+    "nameNe": "पर्सा-2",
+    "slug": "parsa-2",
+    "districtId": "P2.D04",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D04.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Parsa-3",
+    "nameNe": "पर्सा-3",
+    "slug": "parsa-3",
+    "districtId": "P2.D04",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P2.D04.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Parsa-4",
+    "nameNe": "पर्सा-4",
+    "slug": "parsa-4",
+    "districtId": "P2.D04",
+    "provinceId": "P2"
+  },
+  {
+    "id": "F.P3.D04.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Dolakha-1",
+    "nameNe": "दोलखा-1",
+    "slug": "dolakha-1",
+    "districtId": "P3.D04",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D13.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Sindhupalchok-1",
+    "nameNe": "सिन्धुपाल्चोक-1",
+    "slug": "sindhupalchok-1",
+    "districtId": "P3.D13",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D13.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Sindhupalchok-2",
+    "nameNe": "सिन्धुपाल्चोक-2",
+    "slug": "sindhupalchok-2",
+    "districtId": "P3.D13",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D11.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Rasuwa-1",
+    "nameNe": "रसुवा-1",
+    "slug": "rasuwa-1",
+    "districtId": "P3.D11",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D09.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Nuwakot-1",
+    "nameNe": "नुवाकोट-1",
+    "slug": "nuwakot-1",
+    "districtId": "P3.D09",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D09.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Nuwakot-2",
+    "nameNe": "नुवाकोट-2",
+    "slug": "nuwakot-2",
+    "districtId": "P3.D09",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D03.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Dhading-1",
+    "nameNe": "धादिङ-1",
+    "slug": "dhading-1",
+    "districtId": "P3.D03",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D03.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Dhading-2",
+    "nameNe": "धादिङ-2",
+    "slug": "dhading-2",
+    "districtId": "P3.D03",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D05.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Kathmandu-1",
+    "nameNe": "काठमाडौँ-1",
+    "slug": "kathmandu-1",
+    "districtId": "P3.D05",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D05.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Kathmandu-2",
+    "nameNe": "काठमाडौँ-2",
+    "slug": "kathmandu-2",
+    "districtId": "P3.D05",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D05.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Kathmandu-3",
+    "nameNe": "काठमाडौँ-3",
+    "slug": "kathmandu-3",
+    "districtId": "P3.D05",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D05.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Kathmandu-4",
+    "nameNe": "काठमाडौँ-4",
+    "slug": "kathmandu-4",
+    "districtId": "P3.D05",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D05.5",
+    "type": "federal",
+    "number": 5,
+    "nameEn": "Kathmandu-5",
+    "nameNe": "काठमाडौँ-5",
+    "slug": "kathmandu-5",
+    "districtId": "P3.D05",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D05.6",
+    "type": "federal",
+    "number": 6,
+    "nameEn": "Kathmandu-6",
+    "nameNe": "काठमाडौँ-6",
+    "slug": "kathmandu-6",
+    "districtId": "P3.D05",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D05.7",
+    "type": "federal",
+    "number": 7,
+    "nameEn": "Kathmandu-7",
+    "nameNe": "काठमाडौँ-7",
+    "slug": "kathmandu-7",
+    "districtId": "P3.D05",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D05.8",
+    "type": "federal",
+    "number": 8,
+    "nameEn": "Kathmandu-8",
+    "nameNe": "काठमाडौँ-8",
+    "slug": "kathmandu-8",
+    "districtId": "P3.D05",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D05.9",
+    "type": "federal",
+    "number": 9,
+    "nameEn": "Kathmandu-9",
+    "nameNe": "काठमाडौँ-9",
+    "slug": "kathmandu-9",
+    "districtId": "P3.D05",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D05.10",
+    "type": "federal",
+    "number": 10,
+    "nameEn": "Kathmandu-10",
+    "nameNe": "काठमाडौँ-10",
+    "slug": "kathmandu-10",
+    "districtId": "P3.D05",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D01.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Bhaktapur-1",
+    "nameNe": "भक्तपुर-1",
+    "slug": "bhaktapur-1",
+    "districtId": "P3.D01",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D01.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Bhaktapur-2",
+    "nameNe": "भक्तपुर-2",
+    "slug": "bhaktapur-2",
+    "districtId": "P3.D01",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D07.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Lalitpur-1",
+    "nameNe": "ललितपुर-1",
+    "slug": "lalitpur-1",
+    "districtId": "P3.D07",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D07.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Lalitpur-2",
+    "nameNe": "ललितपुर-2",
+    "slug": "lalitpur-2",
+    "districtId": "P3.D07",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D07.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Lalitpur-3",
+    "nameNe": "ललितपुर-3",
+    "slug": "lalitpur-3",
+    "districtId": "P3.D07",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D06.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Kavrepalanchok-1",
+    "nameNe": "काभ्रेपलाञ्चोक-1",
+    "slug": "kavrepalanchok-1",
+    "districtId": "P3.D06",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D06.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Kavrepalanchok-2",
+    "nameNe": "काभ्रेपलाञ्चोक-2",
+    "slug": "kavrepalanchok-2",
+    "districtId": "P3.D06",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D10.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Ramechhap-1",
+    "nameNe": "रामेछाप-1",
+    "slug": "ramechhap-1",
+    "districtId": "P3.D10",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D12.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Sindhuli-1",
+    "nameNe": "सिन्धुली-1",
+    "slug": "sindhuli-1",
+    "districtId": "P3.D12",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D12.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Sindhuli-2",
+    "nameNe": "सिन्धुली-2",
+    "slug": "sindhuli-2",
+    "districtId": "P3.D12",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D08.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Makwanpur-1",
+    "nameNe": "मकवानपुर-1",
+    "slug": "makwanpur-1",
+    "districtId": "P3.D08",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D08.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Makwanpur-2",
+    "nameNe": "मकवानपुर-2",
+    "slug": "makwanpur-2",
+    "districtId": "P3.D08",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D02.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Chitwan-1",
+    "nameNe": "चितवन-1",
+    "slug": "chitwan-1",
+    "districtId": "P3.D02",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D02.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Chitwan-2",
+    "nameNe": "चितवन-2",
+    "slug": "chitwan-2",
+    "districtId": "P3.D02",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P3.D02.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Chitwan-3",
+    "nameNe": "चितवन-3",
+    "slug": "chitwan-3",
+    "districtId": "P3.D02",
+    "provinceId": "P3"
+  },
+  {
+    "id": "F.P4.D02.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Gorkha-1",
+    "nameNe": "गोरखा-1",
+    "slug": "gorkha-1",
+    "districtId": "P4.D02",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D02.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Gorkha-2",
+    "nameNe": "गोरखा-2",
+    "slug": "gorkha-2",
+    "districtId": "P4.D02",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D05.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Manang-1",
+    "nameNe": "मनाङ-1",
+    "slug": "manang-1",
+    "districtId": "P4.D05",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D06.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Mustang-1",
+    "nameNe": "मुस्ताङ-1",
+    "slug": "mustang-1",
+    "districtId": "P4.D06",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D07.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Myagdi-1",
+    "nameNe": "म्याग्दी-1",
+    "slug": "myagdi-1",
+    "districtId": "P4.D07",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D03.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Kaski-1",
+    "nameNe": "कास्की-1",
+    "slug": "kaski-1",
+    "districtId": "P4.D03",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D03.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Kaski-2",
+    "nameNe": "कास्की-2",
+    "slug": "kaski-2",
+    "districtId": "P4.D03",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D03.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Kaski-3",
+    "nameNe": "कास्की-3",
+    "slug": "kaski-3",
+    "districtId": "P4.D03",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D04.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Lamjung-1",
+    "nameNe": "लमजुङ-1",
+    "slug": "lamjung-1",
+    "districtId": "P4.D04",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D11.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Tanahun-1",
+    "nameNe": "तनहुँ-1",
+    "slug": "tanahun-1",
+    "districtId": "P4.D11",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D11.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Tanahun-2",
+    "nameNe": "तनहुँ-2",
+    "slug": "tanahun-2",
+    "districtId": "P4.D11",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D08.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Nawalpur-1",
+    "nameNe": "नवलपुर-1",
+    "slug": "nawalpur-1",
+    "districtId": "P4.D08",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D08.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Nawalpur-2",
+    "nameNe": "नवलपुर-2",
+    "slug": "nawalpur-2",
+    "districtId": "P4.D08",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D10.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Syangja-1",
+    "nameNe": "स्याङ्जा-1",
+    "slug": "syangja-1",
+    "districtId": "P4.D10",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D10.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Syangja-2",
+    "nameNe": "स्याङ्जा-2",
+    "slug": "syangja-2",
+    "districtId": "P4.D10",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D09.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Parbat-1",
+    "nameNe": "पर्बत-1",
+    "slug": "parbat-1",
+    "districtId": "P4.D09",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D01.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Baglung-1",
+    "nameNe": "बाग्लुङ-1",
+    "slug": "baglung-1",
+    "districtId": "P4.D01",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P4.D01.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Baglung-2",
+    "nameNe": "बाग्लुङ-2",
+    "slug": "baglung-2",
+    "districtId": "P4.D01",
+    "provinceId": "P4"
+  },
+  {
+    "id": "F.P5.D05.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Rukum East-1",
+    "nameNe": "पूर्वी रुकुम-1",
+    "slug": "eastern-rukum-1",
+    "districtId": "P5.D05",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D11.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Rolpa-1",
+    "nameNe": "रोल्पा-1",
+    "slug": "rolpa-1",
+    "districtId": "P5.D11",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D10.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Pyuthan-1",
+    "nameNe": "प्युठान-1",
+    "slug": "pyuthan-1",
+    "districtId": "P5.D10",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D06.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Gulmi-1",
+    "nameNe": "गुल्मी-1",
+    "slug": "gulmi-1",
+    "districtId": "P5.D06",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D06.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Gulmi-2",
+    "nameNe": "गुल्मी-2",
+    "slug": "gulmi-2",
+    "districtId": "P5.D06",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D01.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Arghakhanchi-1",
+    "nameNe": "अर्घाखाँची-1",
+    "slug": "arghakhanchi-1",
+    "districtId": "P5.D01",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D08.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Palpa-1",
+    "nameNe": "पाल्पा-1",
+    "slug": "palpa-1",
+    "districtId": "P5.D08",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D08.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Palpa-2",
+    "nameNe": "पाल्पा-2",
+    "slug": "palpa-2",
+    "districtId": "P5.D08",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D09.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Parasi-1",
+    "nameNe": "परासी-1",
+    "slug": "parasi-1",
+    "districtId": "P5.D09",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D09.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Parasi-2",
+    "nameNe": "परासी-2",
+    "slug": "parasi-2",
+    "districtId": "P5.D09",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D12.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Rupandehi-1",
+    "nameNe": "रुपन्देही-1",
+    "slug": "rupandehi-1",
+    "districtId": "P5.D12",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D12.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Rupandehi-2",
+    "nameNe": "रुपन्देही-2",
+    "slug": "rupandehi-2",
+    "districtId": "P5.D12",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D12.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Rupandehi-3",
+    "nameNe": "रुपन्देही-3",
+    "slug": "rupandehi-3",
+    "districtId": "P5.D12",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D12.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Rupandehi-4",
+    "nameNe": "रुपन्देही-4",
+    "slug": "rupandehi-4",
+    "districtId": "P5.D12",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D12.5",
+    "type": "federal",
+    "number": 5,
+    "nameEn": "Rupandehi-5",
+    "nameNe": "रुपन्देही-5",
+    "slug": "rupandehi-5",
+    "districtId": "P5.D12",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D07.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Kapilvastu-1",
+    "nameNe": "कपिलवस्तु-1",
+    "slug": "kapilvastu-1",
+    "districtId": "P5.D07",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D07.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Kapilvastu-2",
+    "nameNe": "कपिलवस्तु-2",
+    "slug": "kapilvastu-2",
+    "districtId": "P5.D07",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D07.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Kapilvastu-3",
+    "nameNe": "कपिलवस्तु-3",
+    "slug": "kapilvastu-3",
+    "districtId": "P5.D07",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D04.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Dang-1",
+    "nameNe": "दाङ-1",
+    "slug": "dang-1",
+    "districtId": "P5.D04",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D04.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Dang-2",
+    "nameNe": "दाङ-2",
+    "slug": "dang-2",
+    "districtId": "P5.D04",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D04.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Dang-3",
+    "nameNe": "दाङ-3",
+    "slug": "dang-3",
+    "districtId": "P5.D04",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D02.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Banke-1",
+    "nameNe": "बाँके-1",
+    "slug": "banke-1",
+    "districtId": "P5.D02",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D02.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Banke-2",
+    "nameNe": "बाँके-2",
+    "slug": "banke-2",
+    "districtId": "P5.D02",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D02.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Banke-3",
+    "nameNe": "बाँके-3",
+    "slug": "banke-3",
+    "districtId": "P5.D02",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D03.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Bardiya-1",
+    "nameNe": "बर्दिया-1",
+    "slug": "bardiya-1",
+    "districtId": "P5.D03",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P5.D03.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Bardiya-2",
+    "nameNe": "बर्दिया-2",
+    "slug": "bardiya-2",
+    "districtId": "P5.D03",
+    "provinceId": "P5"
+  },
+  {
+    "id": "F.P6.D10.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Rukum West-1",
+    "nameNe": "पश्चिमी रुकुम-1",
+    "slug": "western-rukum-1",
+    "districtId": "P6.D10",
+    "provinceId": "P6"
+  },
+  {
+    "id": "F.P6.D08.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Salyan-1",
+    "nameNe": "सल्यान-1",
+    "slug": "salyan-1",
+    "districtId": "P6.D08",
+    "provinceId": "P6"
+  },
+  {
+    "id": "F.P6.D02.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Dolpa-1",
+    "nameNe": "डोल्पा-1",
+    "slug": "dolpa-1",
+    "districtId": "P6.D02",
+    "provinceId": "P6"
+  },
+  {
+    "id": "F.P6.D03.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Humla-1",
+    "nameNe": "हुम्ला-1",
+    "slug": "humla-1",
+    "districtId": "P6.D03",
+    "provinceId": "P6"
+  },
+  {
+    "id": "F.P6.D05.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Jumla-1",
+    "nameNe": "जुम्ला-1",
+    "slug": "jumla-1",
+    "districtId": "P6.D05",
+    "provinceId": "P6"
+  },
+  {
+    "id": "F.P6.D06.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Kalikot-1",
+    "nameNe": "कालिकोट-1",
+    "slug": "kalikot-1",
+    "districtId": "P6.D06",
+    "provinceId": "P6"
+  },
+  {
+    "id": "F.P6.D07.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Mugu-1",
+    "nameNe": "मुगु-1",
+    "slug": "mugu-1",
+    "districtId": "P6.D07",
+    "provinceId": "P6"
+  },
+  {
+    "id": "F.P6.D09.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Surkhet-1",
+    "nameNe": "सुर्खेत-1",
+    "slug": "surkhet-1",
+    "districtId": "P6.D09",
+    "provinceId": "P6"
+  },
+  {
+    "id": "F.P6.D09.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Surkhet-2",
+    "nameNe": "सुर्खेत-2",
+    "slug": "surkhet-2",
+    "districtId": "P6.D09",
+    "provinceId": "P6"
+  },
+  {
+    "id": "F.P6.D01.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Dailekh-1",
+    "nameNe": "दैलेख-1",
+    "slug": "dailekh-1",
+    "districtId": "P6.D01",
+    "provinceId": "P6"
+  },
+  {
+    "id": "F.P6.D01.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Dailekh-2",
+    "nameNe": "दैलेख-2",
+    "slug": "dailekh-2",
+    "districtId": "P6.D01",
+    "provinceId": "P6"
+  },
+  {
+    "id": "F.P6.D04.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Jajarkot-1",
+    "nameNe": "जाजरकोट-1",
+    "slug": "jajarkot-1",
+    "districtId": "P6.D04",
+    "provinceId": "P6"
+  },
+  {
+    "id": "F.P7.D04.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Bajura-1",
+    "nameNe": "बाजुरा-1",
+    "slug": "bajura-1",
+    "districtId": "P7.D04",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D03.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Bajhang-1",
+    "nameNe": "बझाङ-1",
+    "slug": "bajhang-1",
+    "districtId": "P7.D03",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D01.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Achham-1",
+    "nameNe": "अछाम-1",
+    "slug": "achham-1",
+    "districtId": "P7.D01",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D01.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Achham-2",
+    "nameNe": "अछाम-2",
+    "slug": "achham-2",
+    "districtId": "P7.D01",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D07.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Doti-1",
+    "nameNe": "डोटी-1",
+    "slug": "doti-1",
+    "districtId": "P7.D07",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D08.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Kailali-1",
+    "nameNe": "कैलाली-1",
+    "slug": "kailali-1",
+    "districtId": "P7.D08",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D08.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Kailali-2",
+    "nameNe": "कैलाली-2",
+    "slug": "kailali-2",
+    "districtId": "P7.D08",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D08.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Kailali-3",
+    "nameNe": "कैलाली-3",
+    "slug": "kailali-3",
+    "districtId": "P7.D08",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D08.4",
+    "type": "federal",
+    "number": 4,
+    "nameEn": "Kailali-4",
+    "nameNe": "कैलाली-4",
+    "slug": "kailali-4",
+    "districtId": "P7.D08",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D08.5",
+    "type": "federal",
+    "number": 5,
+    "nameEn": "Kailali-5",
+    "nameNe": "कैलाली-5",
+    "slug": "kailali-5",
+    "districtId": "P7.D08",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D09.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Kanchanpur-1",
+    "nameNe": "कञ्चनपुर-1",
+    "slug": "kanchanpur-1",
+    "districtId": "P7.D09",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D09.2",
+    "type": "federal",
+    "number": 2,
+    "nameEn": "Kanchanpur-2",
+    "nameNe": "कञ्चनपुर-2",
+    "slug": "kanchanpur-2",
+    "districtId": "P7.D09",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D09.3",
+    "type": "federal",
+    "number": 3,
+    "nameEn": "Kanchanpur-3",
+    "nameNe": "कञ्चनपुर-3",
+    "slug": "kanchanpur-3",
+    "districtId": "P7.D09",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D05.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Dadeldhura-1",
+    "nameNe": "डडेल्धुरा-1",
+    "slug": "dadeldhura-1",
+    "districtId": "P7.D05",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D02.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Baitadi-1",
+    "nameNe": "बैतडी-1",
+    "slug": "baitadi-1",
+    "districtId": "P7.D02",
+    "provinceId": "P7"
+  },
+  {
+    "id": "F.P7.D06.1",
+    "type": "federal",
+    "number": 1,
+    "nameEn": "Darchula-1",
+    "nameNe": "दार्चुला-1",
+    "slug": "darchula-1",
+    "districtId": "P7.D06",
+    "provinceId": "P7"
+  },
+  {
+    "id": "PR.P1.1",
+    "type": "provincial",
+    "number": 1,
+    "nameEn": "Koshi Provincial-1",
+    "nameNe": "कोशी प्रदेश-1",
+    "slug": "koshi-provincial-1",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.2",
+    "type": "provincial",
+    "number": 2,
+    "nameEn": "Koshi Provincial-2",
+    "nameNe": "कोशी प्रदेश-2",
+    "slug": "koshi-provincial-2",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.3",
+    "type": "provincial",
+    "number": 3,
+    "nameEn": "Koshi Provincial-3",
+    "nameNe": "कोशी प्रदेश-3",
+    "slug": "koshi-provincial-3",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.4",
+    "type": "provincial",
+    "number": 4,
+    "nameEn": "Koshi Provincial-4",
+    "nameNe": "कोशी प्रदेश-4",
+    "slug": "koshi-provincial-4",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.5",
+    "type": "provincial",
+    "number": 5,
+    "nameEn": "Koshi Provincial-5",
+    "nameNe": "कोशी प्रदेश-5",
+    "slug": "koshi-provincial-5",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.6",
+    "type": "provincial",
+    "number": 6,
+    "nameEn": "Koshi Provincial-6",
+    "nameNe": "कोशी प्रदेश-6",
+    "slug": "koshi-provincial-6",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.7",
+    "type": "provincial",
+    "number": 7,
+    "nameEn": "Koshi Provincial-7",
+    "nameNe": "कोशी प्रदेश-7",
+    "slug": "koshi-provincial-7",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.8",
+    "type": "provincial",
+    "number": 8,
+    "nameEn": "Koshi Provincial-8",
+    "nameNe": "कोशी प्रदेश-8",
+    "slug": "koshi-provincial-8",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.9",
+    "type": "provincial",
+    "number": 9,
+    "nameEn": "Koshi Provincial-9",
+    "nameNe": "कोशी प्रदेश-9",
+    "slug": "koshi-provincial-9",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.10",
+    "type": "provincial",
+    "number": 10,
+    "nameEn": "Koshi Provincial-10",
+    "nameNe": "कोशी प्रदेश-10",
+    "slug": "koshi-provincial-10",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.11",
+    "type": "provincial",
+    "number": 11,
+    "nameEn": "Koshi Provincial-11",
+    "nameNe": "कोशी प्रदेश-11",
+    "slug": "koshi-provincial-11",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.12",
+    "type": "provincial",
+    "number": 12,
+    "nameEn": "Koshi Provincial-12",
+    "nameNe": "कोशी प्रदेश-12",
+    "slug": "koshi-provincial-12",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.13",
+    "type": "provincial",
+    "number": 13,
+    "nameEn": "Koshi Provincial-13",
+    "nameNe": "कोशी प्रदेश-13",
+    "slug": "koshi-provincial-13",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.14",
+    "type": "provincial",
+    "number": 14,
+    "nameEn": "Koshi Provincial-14",
+    "nameNe": "कोशी प्रदेश-14",
+    "slug": "koshi-provincial-14",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.15",
+    "type": "provincial",
+    "number": 15,
+    "nameEn": "Koshi Provincial-15",
+    "nameNe": "कोशी प्रदेश-15",
+    "slug": "koshi-provincial-15",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.16",
+    "type": "provincial",
+    "number": 16,
+    "nameEn": "Koshi Provincial-16",
+    "nameNe": "कोशी प्रदेश-16",
+    "slug": "koshi-provincial-16",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.17",
+    "type": "provincial",
+    "number": 17,
+    "nameEn": "Koshi Provincial-17",
+    "nameNe": "कोशी प्रदेश-17",
+    "slug": "koshi-provincial-17",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.18",
+    "type": "provincial",
+    "number": 18,
+    "nameEn": "Koshi Provincial-18",
+    "nameNe": "कोशी प्रदेश-18",
+    "slug": "koshi-provincial-18",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.19",
+    "type": "provincial",
+    "number": 19,
+    "nameEn": "Koshi Provincial-19",
+    "nameNe": "कोशी प्रदेश-19",
+    "slug": "koshi-provincial-19",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.20",
+    "type": "provincial",
+    "number": 20,
+    "nameEn": "Koshi Provincial-20",
+    "nameNe": "कोशी प्रदेश-20",
+    "slug": "koshi-provincial-20",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.21",
+    "type": "provincial",
+    "number": 21,
+    "nameEn": "Koshi Provincial-21",
+    "nameNe": "कोशी प्रदेश-21",
+    "slug": "koshi-provincial-21",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.22",
+    "type": "provincial",
+    "number": 22,
+    "nameEn": "Koshi Provincial-22",
+    "nameNe": "कोशी प्रदेश-22",
+    "slug": "koshi-provincial-22",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.23",
+    "type": "provincial",
+    "number": 23,
+    "nameEn": "Koshi Provincial-23",
+    "nameNe": "कोशी प्रदेश-23",
+    "slug": "koshi-provincial-23",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.24",
+    "type": "provincial",
+    "number": 24,
+    "nameEn": "Koshi Provincial-24",
+    "nameNe": "कोशी प्रदेश-24",
+    "slug": "koshi-provincial-24",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.25",
+    "type": "provincial",
+    "number": 25,
+    "nameEn": "Koshi Provincial-25",
+    "nameNe": "कोशी प्रदेश-25",
+    "slug": "koshi-provincial-25",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.26",
+    "type": "provincial",
+    "number": 26,
+    "nameEn": "Koshi Provincial-26",
+    "nameNe": "कोशी प्रदेश-26",
+    "slug": "koshi-provincial-26",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.27",
+    "type": "provincial",
+    "number": 27,
+    "nameEn": "Koshi Provincial-27",
+    "nameNe": "कोशी प्रदेश-27",
+    "slug": "koshi-provincial-27",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.28",
+    "type": "provincial",
+    "number": 28,
+    "nameEn": "Koshi Provincial-28",
+    "nameNe": "कोशी प्रदेश-28",
+    "slug": "koshi-provincial-28",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.29",
+    "type": "provincial",
+    "number": 29,
+    "nameEn": "Koshi Provincial-29",
+    "nameNe": "कोशी प्रदेश-29",
+    "slug": "koshi-provincial-29",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.30",
+    "type": "provincial",
+    "number": 30,
+    "nameEn": "Koshi Provincial-30",
+    "nameNe": "कोशी प्रदेश-30",
+    "slug": "koshi-provincial-30",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.31",
+    "type": "provincial",
+    "number": 31,
+    "nameEn": "Koshi Provincial-31",
+    "nameNe": "कोशी प्रदेश-31",
+    "slug": "koshi-provincial-31",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.32",
+    "type": "provincial",
+    "number": 32,
+    "nameEn": "Koshi Provincial-32",
+    "nameNe": "कोशी प्रदेश-32",
+    "slug": "koshi-provincial-32",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.33",
+    "type": "provincial",
+    "number": 33,
+    "nameEn": "Koshi Provincial-33",
+    "nameNe": "कोशी प्रदेश-33",
+    "slug": "koshi-provincial-33",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.34",
+    "type": "provincial",
+    "number": 34,
+    "nameEn": "Koshi Provincial-34",
+    "nameNe": "कोशी प्रदेश-34",
+    "slug": "koshi-provincial-34",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.35",
+    "type": "provincial",
+    "number": 35,
+    "nameEn": "Koshi Provincial-35",
+    "nameNe": "कोशी प्रदेश-35",
+    "slug": "koshi-provincial-35",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.36",
+    "type": "provincial",
+    "number": 36,
+    "nameEn": "Koshi Provincial-36",
+    "nameNe": "कोशी प्रदेश-36",
+    "slug": "koshi-provincial-36",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.37",
+    "type": "provincial",
+    "number": 37,
+    "nameEn": "Koshi Provincial-37",
+    "nameNe": "कोशी प्रदेश-37",
+    "slug": "koshi-provincial-37",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.38",
+    "type": "provincial",
+    "number": 38,
+    "nameEn": "Koshi Provincial-38",
+    "nameNe": "कोशी प्रदेश-38",
+    "slug": "koshi-provincial-38",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.39",
+    "type": "provincial",
+    "number": 39,
+    "nameEn": "Koshi Provincial-39",
+    "nameNe": "कोशी प्रदेश-39",
+    "slug": "koshi-provincial-39",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.40",
+    "type": "provincial",
+    "number": 40,
+    "nameEn": "Koshi Provincial-40",
+    "nameNe": "कोशी प्रदेश-40",
+    "slug": "koshi-provincial-40",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.41",
+    "type": "provincial",
+    "number": 41,
+    "nameEn": "Koshi Provincial-41",
+    "nameNe": "कोशी प्रदेश-41",
+    "slug": "koshi-provincial-41",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.42",
+    "type": "provincial",
+    "number": 42,
+    "nameEn": "Koshi Provincial-42",
+    "nameNe": "कोशी प्रदेश-42",
+    "slug": "koshi-provincial-42",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.43",
+    "type": "provincial",
+    "number": 43,
+    "nameEn": "Koshi Provincial-43",
+    "nameNe": "कोशी प्रदेश-43",
+    "slug": "koshi-provincial-43",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.44",
+    "type": "provincial",
+    "number": 44,
+    "nameEn": "Koshi Provincial-44",
+    "nameNe": "कोशी प्रदेश-44",
+    "slug": "koshi-provincial-44",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.45",
+    "type": "provincial",
+    "number": 45,
+    "nameEn": "Koshi Provincial-45",
+    "nameNe": "कोशी प्रदेश-45",
+    "slug": "koshi-provincial-45",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.46",
+    "type": "provincial",
+    "number": 46,
+    "nameEn": "Koshi Provincial-46",
+    "nameNe": "कोशी प्रदेश-46",
+    "slug": "koshi-provincial-46",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.47",
+    "type": "provincial",
+    "number": 47,
+    "nameEn": "Koshi Provincial-47",
+    "nameNe": "कोशी प्रदेश-47",
+    "slug": "koshi-provincial-47",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.48",
+    "type": "provincial",
+    "number": 48,
+    "nameEn": "Koshi Provincial-48",
+    "nameNe": "कोशी प्रदेश-48",
+    "slug": "koshi-provincial-48",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.49",
+    "type": "provincial",
+    "number": 49,
+    "nameEn": "Koshi Provincial-49",
+    "nameNe": "कोशी प्रदेश-49",
+    "slug": "koshi-provincial-49",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.50",
+    "type": "provincial",
+    "number": 50,
+    "nameEn": "Koshi Provincial-50",
+    "nameNe": "कोशी प्रदेश-50",
+    "slug": "koshi-provincial-50",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.51",
+    "type": "provincial",
+    "number": 51,
+    "nameEn": "Koshi Provincial-51",
+    "nameNe": "कोशी प्रदेश-51",
+    "slug": "koshi-provincial-51",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.52",
+    "type": "provincial",
+    "number": 52,
+    "nameEn": "Koshi Provincial-52",
+    "nameNe": "कोशी प्रदेश-52",
+    "slug": "koshi-provincial-52",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.53",
+    "type": "provincial",
+    "number": 53,
+    "nameEn": "Koshi Provincial-53",
+    "nameNe": "कोशी प्रदेश-53",
+    "slug": "koshi-provincial-53",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.54",
+    "type": "provincial",
+    "number": 54,
+    "nameEn": "Koshi Provincial-54",
+    "nameNe": "कोशी प्रदेश-54",
+    "slug": "koshi-provincial-54",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.55",
+    "type": "provincial",
+    "number": 55,
+    "nameEn": "Koshi Provincial-55",
+    "nameNe": "कोशी प्रदेश-55",
+    "slug": "koshi-provincial-55",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P1.56",
+    "type": "provincial",
+    "number": 56,
+    "nameEn": "Koshi Provincial-56",
+    "nameNe": "कोशी प्रदेश-56",
+    "slug": "koshi-provincial-56",
+    "provinceId": "P1",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.1",
+    "type": "provincial",
+    "number": 1,
+    "nameEn": "Madhesh Provincial-1",
+    "nameNe": "मधेश प्रदेश-1",
+    "slug": "madhesh-provincial-1",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.2",
+    "type": "provincial",
+    "number": 2,
+    "nameEn": "Madhesh Provincial-2",
+    "nameNe": "मधेश प्रदेश-2",
+    "slug": "madhesh-provincial-2",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.3",
+    "type": "provincial",
+    "number": 3,
+    "nameEn": "Madhesh Provincial-3",
+    "nameNe": "मधेश प्रदेश-3",
+    "slug": "madhesh-provincial-3",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.4",
+    "type": "provincial",
+    "number": 4,
+    "nameEn": "Madhesh Provincial-4",
+    "nameNe": "मधेश प्रदेश-4",
+    "slug": "madhesh-provincial-4",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.5",
+    "type": "provincial",
+    "number": 5,
+    "nameEn": "Madhesh Provincial-5",
+    "nameNe": "मधेश प्रदेश-5",
+    "slug": "madhesh-provincial-5",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.6",
+    "type": "provincial",
+    "number": 6,
+    "nameEn": "Madhesh Provincial-6",
+    "nameNe": "मधेश प्रदेश-6",
+    "slug": "madhesh-provincial-6",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.7",
+    "type": "provincial",
+    "number": 7,
+    "nameEn": "Madhesh Provincial-7",
+    "nameNe": "मधेश प्रदेश-7",
+    "slug": "madhesh-provincial-7",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.8",
+    "type": "provincial",
+    "number": 8,
+    "nameEn": "Madhesh Provincial-8",
+    "nameNe": "मधेश प्रदेश-8",
+    "slug": "madhesh-provincial-8",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.9",
+    "type": "provincial",
+    "number": 9,
+    "nameEn": "Madhesh Provincial-9",
+    "nameNe": "मधेश प्रदेश-9",
+    "slug": "madhesh-provincial-9",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.10",
+    "type": "provincial",
+    "number": 10,
+    "nameEn": "Madhesh Provincial-10",
+    "nameNe": "मधेश प्रदेश-10",
+    "slug": "madhesh-provincial-10",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.11",
+    "type": "provincial",
+    "number": 11,
+    "nameEn": "Madhesh Provincial-11",
+    "nameNe": "मधेश प्रदेश-11",
+    "slug": "madhesh-provincial-11",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.12",
+    "type": "provincial",
+    "number": 12,
+    "nameEn": "Madhesh Provincial-12",
+    "nameNe": "मधेश प्रदेश-12",
+    "slug": "madhesh-provincial-12",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.13",
+    "type": "provincial",
+    "number": 13,
+    "nameEn": "Madhesh Provincial-13",
+    "nameNe": "मधेश प्रदेश-13",
+    "slug": "madhesh-provincial-13",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.14",
+    "type": "provincial",
+    "number": 14,
+    "nameEn": "Madhesh Provincial-14",
+    "nameNe": "मधेश प्रदेश-14",
+    "slug": "madhesh-provincial-14",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.15",
+    "type": "provincial",
+    "number": 15,
+    "nameEn": "Madhesh Provincial-15",
+    "nameNe": "मधेश प्रदेश-15",
+    "slug": "madhesh-provincial-15",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.16",
+    "type": "provincial",
+    "number": 16,
+    "nameEn": "Madhesh Provincial-16",
+    "nameNe": "मधेश प्रदेश-16",
+    "slug": "madhesh-provincial-16",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.17",
+    "type": "provincial",
+    "number": 17,
+    "nameEn": "Madhesh Provincial-17",
+    "nameNe": "मधेश प्रदेश-17",
+    "slug": "madhesh-provincial-17",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.18",
+    "type": "provincial",
+    "number": 18,
+    "nameEn": "Madhesh Provincial-18",
+    "nameNe": "मधेश प्रदेश-18",
+    "slug": "madhesh-provincial-18",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.19",
+    "type": "provincial",
+    "number": 19,
+    "nameEn": "Madhesh Provincial-19",
+    "nameNe": "मधेश प्रदेश-19",
+    "slug": "madhesh-provincial-19",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.20",
+    "type": "provincial",
+    "number": 20,
+    "nameEn": "Madhesh Provincial-20",
+    "nameNe": "मधेश प्रदेश-20",
+    "slug": "madhesh-provincial-20",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.21",
+    "type": "provincial",
+    "number": 21,
+    "nameEn": "Madhesh Provincial-21",
+    "nameNe": "मधेश प्रदेश-21",
+    "slug": "madhesh-provincial-21",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.22",
+    "type": "provincial",
+    "number": 22,
+    "nameEn": "Madhesh Provincial-22",
+    "nameNe": "मधेश प्रदेश-22",
+    "slug": "madhesh-provincial-22",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.23",
+    "type": "provincial",
+    "number": 23,
+    "nameEn": "Madhesh Provincial-23",
+    "nameNe": "मधेश प्रदेश-23",
+    "slug": "madhesh-provincial-23",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.24",
+    "type": "provincial",
+    "number": 24,
+    "nameEn": "Madhesh Provincial-24",
+    "nameNe": "मधेश प्रदेश-24",
+    "slug": "madhesh-provincial-24",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.25",
+    "type": "provincial",
+    "number": 25,
+    "nameEn": "Madhesh Provincial-25",
+    "nameNe": "मधेश प्रदेश-25",
+    "slug": "madhesh-provincial-25",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.26",
+    "type": "provincial",
+    "number": 26,
+    "nameEn": "Madhesh Provincial-26",
+    "nameNe": "मधेश प्रदेश-26",
+    "slug": "madhesh-provincial-26",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.27",
+    "type": "provincial",
+    "number": 27,
+    "nameEn": "Madhesh Provincial-27",
+    "nameNe": "मधेश प्रदेश-27",
+    "slug": "madhesh-provincial-27",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.28",
+    "type": "provincial",
+    "number": 28,
+    "nameEn": "Madhesh Provincial-28",
+    "nameNe": "मधेश प्रदेश-28",
+    "slug": "madhesh-provincial-28",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.29",
+    "type": "provincial",
+    "number": 29,
+    "nameEn": "Madhesh Provincial-29",
+    "nameNe": "मधेश प्रदेश-29",
+    "slug": "madhesh-provincial-29",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.30",
+    "type": "provincial",
+    "number": 30,
+    "nameEn": "Madhesh Provincial-30",
+    "nameNe": "मधेश प्रदेश-30",
+    "slug": "madhesh-provincial-30",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.31",
+    "type": "provincial",
+    "number": 31,
+    "nameEn": "Madhesh Provincial-31",
+    "nameNe": "मधेश प्रदेश-31",
+    "slug": "madhesh-provincial-31",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.32",
+    "type": "provincial",
+    "number": 32,
+    "nameEn": "Madhesh Provincial-32",
+    "nameNe": "मधेश प्रदेश-32",
+    "slug": "madhesh-provincial-32",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.33",
+    "type": "provincial",
+    "number": 33,
+    "nameEn": "Madhesh Provincial-33",
+    "nameNe": "मधेश प्रदेश-33",
+    "slug": "madhesh-provincial-33",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.34",
+    "type": "provincial",
+    "number": 34,
+    "nameEn": "Madhesh Provincial-34",
+    "nameNe": "मधेश प्रदेश-34",
+    "slug": "madhesh-provincial-34",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.35",
+    "type": "provincial",
+    "number": 35,
+    "nameEn": "Madhesh Provincial-35",
+    "nameNe": "मधेश प्रदेश-35",
+    "slug": "madhesh-provincial-35",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.36",
+    "type": "provincial",
+    "number": 36,
+    "nameEn": "Madhesh Provincial-36",
+    "nameNe": "मधेश प्रदेश-36",
+    "slug": "madhesh-provincial-36",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.37",
+    "type": "provincial",
+    "number": 37,
+    "nameEn": "Madhesh Provincial-37",
+    "nameNe": "मधेश प्रदेश-37",
+    "slug": "madhesh-provincial-37",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.38",
+    "type": "provincial",
+    "number": 38,
+    "nameEn": "Madhesh Provincial-38",
+    "nameNe": "मधेश प्रदेश-38",
+    "slug": "madhesh-provincial-38",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.39",
+    "type": "provincial",
+    "number": 39,
+    "nameEn": "Madhesh Provincial-39",
+    "nameNe": "मधेश प्रदेश-39",
+    "slug": "madhesh-provincial-39",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.40",
+    "type": "provincial",
+    "number": 40,
+    "nameEn": "Madhesh Provincial-40",
+    "nameNe": "मधेश प्रदेश-40",
+    "slug": "madhesh-provincial-40",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.41",
+    "type": "provincial",
+    "number": 41,
+    "nameEn": "Madhesh Provincial-41",
+    "nameNe": "मधेश प्रदेश-41",
+    "slug": "madhesh-provincial-41",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.42",
+    "type": "provincial",
+    "number": 42,
+    "nameEn": "Madhesh Provincial-42",
+    "nameNe": "मधेश प्रदेश-42",
+    "slug": "madhesh-provincial-42",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.43",
+    "type": "provincial",
+    "number": 43,
+    "nameEn": "Madhesh Provincial-43",
+    "nameNe": "मधेश प्रदेश-43",
+    "slug": "madhesh-provincial-43",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.44",
+    "type": "provincial",
+    "number": 44,
+    "nameEn": "Madhesh Provincial-44",
+    "nameNe": "मधेश प्रदेश-44",
+    "slug": "madhesh-provincial-44",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.45",
+    "type": "provincial",
+    "number": 45,
+    "nameEn": "Madhesh Provincial-45",
+    "nameNe": "मधेश प्रदेश-45",
+    "slug": "madhesh-provincial-45",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.46",
+    "type": "provincial",
+    "number": 46,
+    "nameEn": "Madhesh Provincial-46",
+    "nameNe": "मधेश प्रदेश-46",
+    "slug": "madhesh-provincial-46",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.47",
+    "type": "provincial",
+    "number": 47,
+    "nameEn": "Madhesh Provincial-47",
+    "nameNe": "मधेश प्रदेश-47",
+    "slug": "madhesh-provincial-47",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.48",
+    "type": "provincial",
+    "number": 48,
+    "nameEn": "Madhesh Provincial-48",
+    "nameNe": "मधेश प्रदेश-48",
+    "slug": "madhesh-provincial-48",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.49",
+    "type": "provincial",
+    "number": 49,
+    "nameEn": "Madhesh Provincial-49",
+    "nameNe": "मधेश प्रदेश-49",
+    "slug": "madhesh-provincial-49",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.50",
+    "type": "provincial",
+    "number": 50,
+    "nameEn": "Madhesh Provincial-50",
+    "nameNe": "मधेश प्रदेश-50",
+    "slug": "madhesh-provincial-50",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.51",
+    "type": "provincial",
+    "number": 51,
+    "nameEn": "Madhesh Provincial-51",
+    "nameNe": "मधेश प्रदेश-51",
+    "slug": "madhesh-provincial-51",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.52",
+    "type": "provincial",
+    "number": 52,
+    "nameEn": "Madhesh Provincial-52",
+    "nameNe": "मधेश प्रदेश-52",
+    "slug": "madhesh-provincial-52",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.53",
+    "type": "provincial",
+    "number": 53,
+    "nameEn": "Madhesh Provincial-53",
+    "nameNe": "मधेश प्रदेश-53",
+    "slug": "madhesh-provincial-53",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.54",
+    "type": "provincial",
+    "number": 54,
+    "nameEn": "Madhesh Provincial-54",
+    "nameNe": "मधेश प्रदेश-54",
+    "slug": "madhesh-provincial-54",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.55",
+    "type": "provincial",
+    "number": 55,
+    "nameEn": "Madhesh Provincial-55",
+    "nameNe": "मधेश प्रदेश-55",
+    "slug": "madhesh-provincial-55",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.56",
+    "type": "provincial",
+    "number": 56,
+    "nameEn": "Madhesh Provincial-56",
+    "nameNe": "मधेश प्रदेश-56",
+    "slug": "madhesh-provincial-56",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.57",
+    "type": "provincial",
+    "number": 57,
+    "nameEn": "Madhesh Provincial-57",
+    "nameNe": "मधेश प्रदेश-57",
+    "slug": "madhesh-provincial-57",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.58",
+    "type": "provincial",
+    "number": 58,
+    "nameEn": "Madhesh Provincial-58",
+    "nameNe": "मधेश प्रदेश-58",
+    "slug": "madhesh-provincial-58",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.59",
+    "type": "provincial",
+    "number": 59,
+    "nameEn": "Madhesh Provincial-59",
+    "nameNe": "मधेश प्रदेश-59",
+    "slug": "madhesh-provincial-59",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.60",
+    "type": "provincial",
+    "number": 60,
+    "nameEn": "Madhesh Provincial-60",
+    "nameNe": "मधेश प्रदेश-60",
+    "slug": "madhesh-provincial-60",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.61",
+    "type": "provincial",
+    "number": 61,
+    "nameEn": "Madhesh Provincial-61",
+    "nameNe": "मधेश प्रदेश-61",
+    "slug": "madhesh-provincial-61",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.62",
+    "type": "provincial",
+    "number": 62,
+    "nameEn": "Madhesh Provincial-62",
+    "nameNe": "मधेश प्रदेश-62",
+    "slug": "madhesh-provincial-62",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.63",
+    "type": "provincial",
+    "number": 63,
+    "nameEn": "Madhesh Provincial-63",
+    "nameNe": "मधेश प्रदेश-63",
+    "slug": "madhesh-provincial-63",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P2.64",
+    "type": "provincial",
+    "number": 64,
+    "nameEn": "Madhesh Provincial-64",
+    "nameNe": "मधेश प्रदेश-64",
+    "slug": "madhesh-provincial-64",
+    "provinceId": "P2",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.1",
+    "type": "provincial",
+    "number": 1,
+    "nameEn": "Bagmati Provincial-1",
+    "nameNe": "बागमती प्रदेश-1",
+    "slug": "bagmati-provincial-1",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.2",
+    "type": "provincial",
+    "number": 2,
+    "nameEn": "Bagmati Provincial-2",
+    "nameNe": "बागमती प्रदेश-2",
+    "slug": "bagmati-provincial-2",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.3",
+    "type": "provincial",
+    "number": 3,
+    "nameEn": "Bagmati Provincial-3",
+    "nameNe": "बागमती प्रदेश-3",
+    "slug": "bagmati-provincial-3",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.4",
+    "type": "provincial",
+    "number": 4,
+    "nameEn": "Bagmati Provincial-4",
+    "nameNe": "बागमती प्रदेश-4",
+    "slug": "bagmati-provincial-4",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.5",
+    "type": "provincial",
+    "number": 5,
+    "nameEn": "Bagmati Provincial-5",
+    "nameNe": "बागमती प्रदेश-5",
+    "slug": "bagmati-provincial-5",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.6",
+    "type": "provincial",
+    "number": 6,
+    "nameEn": "Bagmati Provincial-6",
+    "nameNe": "बागमती प्रदेश-6",
+    "slug": "bagmati-provincial-6",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.7",
+    "type": "provincial",
+    "number": 7,
+    "nameEn": "Bagmati Provincial-7",
+    "nameNe": "बागमती प्रदेश-7",
+    "slug": "bagmati-provincial-7",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.8",
+    "type": "provincial",
+    "number": 8,
+    "nameEn": "Bagmati Provincial-8",
+    "nameNe": "बागमती प्रदेश-8",
+    "slug": "bagmati-provincial-8",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.9",
+    "type": "provincial",
+    "number": 9,
+    "nameEn": "Bagmati Provincial-9",
+    "nameNe": "बागमती प्रदेश-9",
+    "slug": "bagmati-provincial-9",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.10",
+    "type": "provincial",
+    "number": 10,
+    "nameEn": "Bagmati Provincial-10",
+    "nameNe": "बागमती प्रदेश-10",
+    "slug": "bagmati-provincial-10",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.11",
+    "type": "provincial",
+    "number": 11,
+    "nameEn": "Bagmati Provincial-11",
+    "nameNe": "बागमती प्रदेश-11",
+    "slug": "bagmati-provincial-11",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.12",
+    "type": "provincial",
+    "number": 12,
+    "nameEn": "Bagmati Provincial-12",
+    "nameNe": "बागमती प्रदेश-12",
+    "slug": "bagmati-provincial-12",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.13",
+    "type": "provincial",
+    "number": 13,
+    "nameEn": "Bagmati Provincial-13",
+    "nameNe": "बागमती प्रदेश-13",
+    "slug": "bagmati-provincial-13",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.14",
+    "type": "provincial",
+    "number": 14,
+    "nameEn": "Bagmati Provincial-14",
+    "nameNe": "बागमती प्रदेश-14",
+    "slug": "bagmati-provincial-14",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.15",
+    "type": "provincial",
+    "number": 15,
+    "nameEn": "Bagmati Provincial-15",
+    "nameNe": "बागमती प्रदेश-15",
+    "slug": "bagmati-provincial-15",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.16",
+    "type": "provincial",
+    "number": 16,
+    "nameEn": "Bagmati Provincial-16",
+    "nameNe": "बागमती प्रदेश-16",
+    "slug": "bagmati-provincial-16",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.17",
+    "type": "provincial",
+    "number": 17,
+    "nameEn": "Bagmati Provincial-17",
+    "nameNe": "बागमती प्रदेश-17",
+    "slug": "bagmati-provincial-17",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.18",
+    "type": "provincial",
+    "number": 18,
+    "nameEn": "Bagmati Provincial-18",
+    "nameNe": "बागमती प्रदेश-18",
+    "slug": "bagmati-provincial-18",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.19",
+    "type": "provincial",
+    "number": 19,
+    "nameEn": "Bagmati Provincial-19",
+    "nameNe": "बागमती प्रदेश-19",
+    "slug": "bagmati-provincial-19",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.20",
+    "type": "provincial",
+    "number": 20,
+    "nameEn": "Bagmati Provincial-20",
+    "nameNe": "बागमती प्रदेश-20",
+    "slug": "bagmati-provincial-20",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.21",
+    "type": "provincial",
+    "number": 21,
+    "nameEn": "Bagmati Provincial-21",
+    "nameNe": "बागमती प्रदेश-21",
+    "slug": "bagmati-provincial-21",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.22",
+    "type": "provincial",
+    "number": 22,
+    "nameEn": "Bagmati Provincial-22",
+    "nameNe": "बागमती प्रदेश-22",
+    "slug": "bagmati-provincial-22",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.23",
+    "type": "provincial",
+    "number": 23,
+    "nameEn": "Bagmati Provincial-23",
+    "nameNe": "बागमती प्रदेश-23",
+    "slug": "bagmati-provincial-23",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.24",
+    "type": "provincial",
+    "number": 24,
+    "nameEn": "Bagmati Provincial-24",
+    "nameNe": "बागमती प्रदेश-24",
+    "slug": "bagmati-provincial-24",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.25",
+    "type": "provincial",
+    "number": 25,
+    "nameEn": "Bagmati Provincial-25",
+    "nameNe": "बागमती प्रदेश-25",
+    "slug": "bagmati-provincial-25",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.26",
+    "type": "provincial",
+    "number": 26,
+    "nameEn": "Bagmati Provincial-26",
+    "nameNe": "बागमती प्रदेश-26",
+    "slug": "bagmati-provincial-26",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.27",
+    "type": "provincial",
+    "number": 27,
+    "nameEn": "Bagmati Provincial-27",
+    "nameNe": "बागमती प्रदेश-27",
+    "slug": "bagmati-provincial-27",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.28",
+    "type": "provincial",
+    "number": 28,
+    "nameEn": "Bagmati Provincial-28",
+    "nameNe": "बागमती प्रदेश-28",
+    "slug": "bagmati-provincial-28",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.29",
+    "type": "provincial",
+    "number": 29,
+    "nameEn": "Bagmati Provincial-29",
+    "nameNe": "बागमती प्रदेश-29",
+    "slug": "bagmati-provincial-29",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.30",
+    "type": "provincial",
+    "number": 30,
+    "nameEn": "Bagmati Provincial-30",
+    "nameNe": "बागमती प्रदेश-30",
+    "slug": "bagmati-provincial-30",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.31",
+    "type": "provincial",
+    "number": 31,
+    "nameEn": "Bagmati Provincial-31",
+    "nameNe": "बागमती प्रदेश-31",
+    "slug": "bagmati-provincial-31",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.32",
+    "type": "provincial",
+    "number": 32,
+    "nameEn": "Bagmati Provincial-32",
+    "nameNe": "बागमती प्रदेश-32",
+    "slug": "bagmati-provincial-32",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.33",
+    "type": "provincial",
+    "number": 33,
+    "nameEn": "Bagmati Provincial-33",
+    "nameNe": "बागमती प्रदेश-33",
+    "slug": "bagmati-provincial-33",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.34",
+    "type": "provincial",
+    "number": 34,
+    "nameEn": "Bagmati Provincial-34",
+    "nameNe": "बागमती प्रदेश-34",
+    "slug": "bagmati-provincial-34",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.35",
+    "type": "provincial",
+    "number": 35,
+    "nameEn": "Bagmati Provincial-35",
+    "nameNe": "बागमती प्रदेश-35",
+    "slug": "bagmati-provincial-35",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.36",
+    "type": "provincial",
+    "number": 36,
+    "nameEn": "Bagmati Provincial-36",
+    "nameNe": "बागमती प्रदेश-36",
+    "slug": "bagmati-provincial-36",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.37",
+    "type": "provincial",
+    "number": 37,
+    "nameEn": "Bagmati Provincial-37",
+    "nameNe": "बागमती प्रदेश-37",
+    "slug": "bagmati-provincial-37",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.38",
+    "type": "provincial",
+    "number": 38,
+    "nameEn": "Bagmati Provincial-38",
+    "nameNe": "बागमती प्रदेश-38",
+    "slug": "bagmati-provincial-38",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.39",
+    "type": "provincial",
+    "number": 39,
+    "nameEn": "Bagmati Provincial-39",
+    "nameNe": "बागमती प्रदेश-39",
+    "slug": "bagmati-provincial-39",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.40",
+    "type": "provincial",
+    "number": 40,
+    "nameEn": "Bagmati Provincial-40",
+    "nameNe": "बागमती प्रदेश-40",
+    "slug": "bagmati-provincial-40",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.41",
+    "type": "provincial",
+    "number": 41,
+    "nameEn": "Bagmati Provincial-41",
+    "nameNe": "बागमती प्रदेश-41",
+    "slug": "bagmati-provincial-41",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.42",
+    "type": "provincial",
+    "number": 42,
+    "nameEn": "Bagmati Provincial-42",
+    "nameNe": "बागमती प्रदेश-42",
+    "slug": "bagmati-provincial-42",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.43",
+    "type": "provincial",
+    "number": 43,
+    "nameEn": "Bagmati Provincial-43",
+    "nameNe": "बागमती प्रदेश-43",
+    "slug": "bagmati-provincial-43",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.44",
+    "type": "provincial",
+    "number": 44,
+    "nameEn": "Bagmati Provincial-44",
+    "nameNe": "बागमती प्रदेश-44",
+    "slug": "bagmati-provincial-44",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.45",
+    "type": "provincial",
+    "number": 45,
+    "nameEn": "Bagmati Provincial-45",
+    "nameNe": "बागमती प्रदेश-45",
+    "slug": "bagmati-provincial-45",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.46",
+    "type": "provincial",
+    "number": 46,
+    "nameEn": "Bagmati Provincial-46",
+    "nameNe": "बागमती प्रदेश-46",
+    "slug": "bagmati-provincial-46",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.47",
+    "type": "provincial",
+    "number": 47,
+    "nameEn": "Bagmati Provincial-47",
+    "nameNe": "बागमती प्रदेश-47",
+    "slug": "bagmati-provincial-47",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.48",
+    "type": "provincial",
+    "number": 48,
+    "nameEn": "Bagmati Provincial-48",
+    "nameNe": "बागमती प्रदेश-48",
+    "slug": "bagmati-provincial-48",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.49",
+    "type": "provincial",
+    "number": 49,
+    "nameEn": "Bagmati Provincial-49",
+    "nameNe": "बागमती प्रदेश-49",
+    "slug": "bagmati-provincial-49",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.50",
+    "type": "provincial",
+    "number": 50,
+    "nameEn": "Bagmati Provincial-50",
+    "nameNe": "बागमती प्रदेश-50",
+    "slug": "bagmati-provincial-50",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.51",
+    "type": "provincial",
+    "number": 51,
+    "nameEn": "Bagmati Provincial-51",
+    "nameNe": "बागमती प्रदेश-51",
+    "slug": "bagmati-provincial-51",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.52",
+    "type": "provincial",
+    "number": 52,
+    "nameEn": "Bagmati Provincial-52",
+    "nameNe": "बागमती प्रदेश-52",
+    "slug": "bagmati-provincial-52",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.53",
+    "type": "provincial",
+    "number": 53,
+    "nameEn": "Bagmati Provincial-53",
+    "nameNe": "बागमती प्रदेश-53",
+    "slug": "bagmati-provincial-53",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.54",
+    "type": "provincial",
+    "number": 54,
+    "nameEn": "Bagmati Provincial-54",
+    "nameNe": "बागमती प्रदेश-54",
+    "slug": "bagmati-provincial-54",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.55",
+    "type": "provincial",
+    "number": 55,
+    "nameEn": "Bagmati Provincial-55",
+    "nameNe": "बागमती प्रदेश-55",
+    "slug": "bagmati-provincial-55",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.56",
+    "type": "provincial",
+    "number": 56,
+    "nameEn": "Bagmati Provincial-56",
+    "nameNe": "बागमती प्रदेश-56",
+    "slug": "bagmati-provincial-56",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.57",
+    "type": "provincial",
+    "number": 57,
+    "nameEn": "Bagmati Provincial-57",
+    "nameNe": "बागमती प्रदेश-57",
+    "slug": "bagmati-provincial-57",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.58",
+    "type": "provincial",
+    "number": 58,
+    "nameEn": "Bagmati Provincial-58",
+    "nameNe": "बागमती प्रदेश-58",
+    "slug": "bagmati-provincial-58",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.59",
+    "type": "provincial",
+    "number": 59,
+    "nameEn": "Bagmati Provincial-59",
+    "nameNe": "बागमती प्रदेश-59",
+    "slug": "bagmati-provincial-59",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.60",
+    "type": "provincial",
+    "number": 60,
+    "nameEn": "Bagmati Provincial-60",
+    "nameNe": "बागमती प्रदेश-60",
+    "slug": "bagmati-provincial-60",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.61",
+    "type": "provincial",
+    "number": 61,
+    "nameEn": "Bagmati Provincial-61",
+    "nameNe": "बागमती प्रदेश-61",
+    "slug": "bagmati-provincial-61",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.62",
+    "type": "provincial",
+    "number": 62,
+    "nameEn": "Bagmati Provincial-62",
+    "nameNe": "बागमती प्रदेश-62",
+    "slug": "bagmati-provincial-62",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.63",
+    "type": "provincial",
+    "number": 63,
+    "nameEn": "Bagmati Provincial-63",
+    "nameNe": "बागमती प्रदेश-63",
+    "slug": "bagmati-provincial-63",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.64",
+    "type": "provincial",
+    "number": 64,
+    "nameEn": "Bagmati Provincial-64",
+    "nameNe": "बागमती प्रदेश-64",
+    "slug": "bagmati-provincial-64",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.65",
+    "type": "provincial",
+    "number": 65,
+    "nameEn": "Bagmati Provincial-65",
+    "nameNe": "बागमती प्रदेश-65",
+    "slug": "bagmati-provincial-65",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P3.66",
+    "type": "provincial",
+    "number": 66,
+    "nameEn": "Bagmati Provincial-66",
+    "nameNe": "बागमती प्रदेश-66",
+    "slug": "bagmati-provincial-66",
+    "provinceId": "P3",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.1",
+    "type": "provincial",
+    "number": 1,
+    "nameEn": "Gandaki Provincial-1",
+    "nameNe": "गण्डकी प्रदेश-1",
+    "slug": "gandaki-provincial-1",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.2",
+    "type": "provincial",
+    "number": 2,
+    "nameEn": "Gandaki Provincial-2",
+    "nameNe": "गण्डकी प्रदेश-2",
+    "slug": "gandaki-provincial-2",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.3",
+    "type": "provincial",
+    "number": 3,
+    "nameEn": "Gandaki Provincial-3",
+    "nameNe": "गण्डकी प्रदेश-3",
+    "slug": "gandaki-provincial-3",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.4",
+    "type": "provincial",
+    "number": 4,
+    "nameEn": "Gandaki Provincial-4",
+    "nameNe": "गण्डकी प्रदेश-4",
+    "slug": "gandaki-provincial-4",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.5",
+    "type": "provincial",
+    "number": 5,
+    "nameEn": "Gandaki Provincial-5",
+    "nameNe": "गण्डकी प्रदेश-5",
+    "slug": "gandaki-provincial-5",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.6",
+    "type": "provincial",
+    "number": 6,
+    "nameEn": "Gandaki Provincial-6",
+    "nameNe": "गण्डकी प्रदेश-6",
+    "slug": "gandaki-provincial-6",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.7",
+    "type": "provincial",
+    "number": 7,
+    "nameEn": "Gandaki Provincial-7",
+    "nameNe": "गण्डकी प्रदेश-7",
+    "slug": "gandaki-provincial-7",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.8",
+    "type": "provincial",
+    "number": 8,
+    "nameEn": "Gandaki Provincial-8",
+    "nameNe": "गण्डकी प्रदेश-8",
+    "slug": "gandaki-provincial-8",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.9",
+    "type": "provincial",
+    "number": 9,
+    "nameEn": "Gandaki Provincial-9",
+    "nameNe": "गण्डकी प्रदेश-9",
+    "slug": "gandaki-provincial-9",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.10",
+    "type": "provincial",
+    "number": 10,
+    "nameEn": "Gandaki Provincial-10",
+    "nameNe": "गण्डकी प्रदेश-10",
+    "slug": "gandaki-provincial-10",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.11",
+    "type": "provincial",
+    "number": 11,
+    "nameEn": "Gandaki Provincial-11",
+    "nameNe": "गण्डकी प्रदेश-11",
+    "slug": "gandaki-provincial-11",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.12",
+    "type": "provincial",
+    "number": 12,
+    "nameEn": "Gandaki Provincial-12",
+    "nameNe": "गण्डकी प्रदेश-12",
+    "slug": "gandaki-provincial-12",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.13",
+    "type": "provincial",
+    "number": 13,
+    "nameEn": "Gandaki Provincial-13",
+    "nameNe": "गण्डकी प्रदेश-13",
+    "slug": "gandaki-provincial-13",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.14",
+    "type": "provincial",
+    "number": 14,
+    "nameEn": "Gandaki Provincial-14",
+    "nameNe": "गण्डकी प्रदेश-14",
+    "slug": "gandaki-provincial-14",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.15",
+    "type": "provincial",
+    "number": 15,
+    "nameEn": "Gandaki Provincial-15",
+    "nameNe": "गण्डकी प्रदेश-15",
+    "slug": "gandaki-provincial-15",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.16",
+    "type": "provincial",
+    "number": 16,
+    "nameEn": "Gandaki Provincial-16",
+    "nameNe": "गण्डकी प्रदेश-16",
+    "slug": "gandaki-provincial-16",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.17",
+    "type": "provincial",
+    "number": 17,
+    "nameEn": "Gandaki Provincial-17",
+    "nameNe": "गण्डकी प्रदेश-17",
+    "slug": "gandaki-provincial-17",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.18",
+    "type": "provincial",
+    "number": 18,
+    "nameEn": "Gandaki Provincial-18",
+    "nameNe": "गण्डकी प्रदेश-18",
+    "slug": "gandaki-provincial-18",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.19",
+    "type": "provincial",
+    "number": 19,
+    "nameEn": "Gandaki Provincial-19",
+    "nameNe": "गण्डकी प्रदेश-19",
+    "slug": "gandaki-provincial-19",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.20",
+    "type": "provincial",
+    "number": 20,
+    "nameEn": "Gandaki Provincial-20",
+    "nameNe": "गण्डकी प्रदेश-20",
+    "slug": "gandaki-provincial-20",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.21",
+    "type": "provincial",
+    "number": 21,
+    "nameEn": "Gandaki Provincial-21",
+    "nameNe": "गण्डकी प्रदेश-21",
+    "slug": "gandaki-provincial-21",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.22",
+    "type": "provincial",
+    "number": 22,
+    "nameEn": "Gandaki Provincial-22",
+    "nameNe": "गण्डकी प्रदेश-22",
+    "slug": "gandaki-provincial-22",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.23",
+    "type": "provincial",
+    "number": 23,
+    "nameEn": "Gandaki Provincial-23",
+    "nameNe": "गण्डकी प्रदेश-23",
+    "slug": "gandaki-provincial-23",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.24",
+    "type": "provincial",
+    "number": 24,
+    "nameEn": "Gandaki Provincial-24",
+    "nameNe": "गण्डकी प्रदेश-24",
+    "slug": "gandaki-provincial-24",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.25",
+    "type": "provincial",
+    "number": 25,
+    "nameEn": "Gandaki Provincial-25",
+    "nameNe": "गण्डकी प्रदेश-25",
+    "slug": "gandaki-provincial-25",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.26",
+    "type": "provincial",
+    "number": 26,
+    "nameEn": "Gandaki Provincial-26",
+    "nameNe": "गण्डकी प्रदेश-26",
+    "slug": "gandaki-provincial-26",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.27",
+    "type": "provincial",
+    "number": 27,
+    "nameEn": "Gandaki Provincial-27",
+    "nameNe": "गण्डकी प्रदेश-27",
+    "slug": "gandaki-provincial-27",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.28",
+    "type": "provincial",
+    "number": 28,
+    "nameEn": "Gandaki Provincial-28",
+    "nameNe": "गण्डकी प्रदेश-28",
+    "slug": "gandaki-provincial-28",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.29",
+    "type": "provincial",
+    "number": 29,
+    "nameEn": "Gandaki Provincial-29",
+    "nameNe": "गण्डकी प्रदेश-29",
+    "slug": "gandaki-provincial-29",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.30",
+    "type": "provincial",
+    "number": 30,
+    "nameEn": "Gandaki Provincial-30",
+    "nameNe": "गण्डकी प्रदेश-30",
+    "slug": "gandaki-provincial-30",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.31",
+    "type": "provincial",
+    "number": 31,
+    "nameEn": "Gandaki Provincial-31",
+    "nameNe": "गण्डकी प्रदेश-31",
+    "slug": "gandaki-provincial-31",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.32",
+    "type": "provincial",
+    "number": 32,
+    "nameEn": "Gandaki Provincial-32",
+    "nameNe": "गण्डकी प्रदेश-32",
+    "slug": "gandaki-provincial-32",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.33",
+    "type": "provincial",
+    "number": 33,
+    "nameEn": "Gandaki Provincial-33",
+    "nameNe": "गण्डकी प्रदेश-33",
+    "slug": "gandaki-provincial-33",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.34",
+    "type": "provincial",
+    "number": 34,
+    "nameEn": "Gandaki Provincial-34",
+    "nameNe": "गण्डकी प्रदेश-34",
+    "slug": "gandaki-provincial-34",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.35",
+    "type": "provincial",
+    "number": 35,
+    "nameEn": "Gandaki Provincial-35",
+    "nameNe": "गण्डकी प्रदेश-35",
+    "slug": "gandaki-provincial-35",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P4.36",
+    "type": "provincial",
+    "number": 36,
+    "nameEn": "Gandaki Provincial-36",
+    "nameNe": "गण्डकी प्रदेश-36",
+    "slug": "gandaki-provincial-36",
+    "provinceId": "P4",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.1",
+    "type": "provincial",
+    "number": 1,
+    "nameEn": "Lumbini Provincial-1",
+    "nameNe": "लुम्बिनी प्रदेश-1",
+    "slug": "lumbini-provincial-1",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.2",
+    "type": "provincial",
+    "number": 2,
+    "nameEn": "Lumbini Provincial-2",
+    "nameNe": "लुम्बिनी प्रदेश-2",
+    "slug": "lumbini-provincial-2",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.3",
+    "type": "provincial",
+    "number": 3,
+    "nameEn": "Lumbini Provincial-3",
+    "nameNe": "लुम्बिनी प्रदेश-3",
+    "slug": "lumbini-provincial-3",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.4",
+    "type": "provincial",
+    "number": 4,
+    "nameEn": "Lumbini Provincial-4",
+    "nameNe": "लुम्बिनी प्रदेश-4",
+    "slug": "lumbini-provincial-4",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.5",
+    "type": "provincial",
+    "number": 5,
+    "nameEn": "Lumbini Provincial-5",
+    "nameNe": "लुम्बिनी प्रदेश-5",
+    "slug": "lumbini-provincial-5",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.6",
+    "type": "provincial",
+    "number": 6,
+    "nameEn": "Lumbini Provincial-6",
+    "nameNe": "लुम्बिनी प्रदेश-6",
+    "slug": "lumbini-provincial-6",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.7",
+    "type": "provincial",
+    "number": 7,
+    "nameEn": "Lumbini Provincial-7",
+    "nameNe": "लुम्बिनी प्रदेश-7",
+    "slug": "lumbini-provincial-7",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.8",
+    "type": "provincial",
+    "number": 8,
+    "nameEn": "Lumbini Provincial-8",
+    "nameNe": "लुम्बिनी प्रदेश-8",
+    "slug": "lumbini-provincial-8",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.9",
+    "type": "provincial",
+    "number": 9,
+    "nameEn": "Lumbini Provincial-9",
+    "nameNe": "लुम्बिनी प्रदेश-9",
+    "slug": "lumbini-provincial-9",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.10",
+    "type": "provincial",
+    "number": 10,
+    "nameEn": "Lumbini Provincial-10",
+    "nameNe": "लुम्बिनी प्रदेश-10",
+    "slug": "lumbini-provincial-10",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.11",
+    "type": "provincial",
+    "number": 11,
+    "nameEn": "Lumbini Provincial-11",
+    "nameNe": "लुम्बिनी प्रदेश-11",
+    "slug": "lumbini-provincial-11",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.12",
+    "type": "provincial",
+    "number": 12,
+    "nameEn": "Lumbini Provincial-12",
+    "nameNe": "लुम्बिनी प्रदेश-12",
+    "slug": "lumbini-provincial-12",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.13",
+    "type": "provincial",
+    "number": 13,
+    "nameEn": "Lumbini Provincial-13",
+    "nameNe": "लुम्बिनी प्रदेश-13",
+    "slug": "lumbini-provincial-13",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.14",
+    "type": "provincial",
+    "number": 14,
+    "nameEn": "Lumbini Provincial-14",
+    "nameNe": "लुम्बिनी प्रदेश-14",
+    "slug": "lumbini-provincial-14",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.15",
+    "type": "provincial",
+    "number": 15,
+    "nameEn": "Lumbini Provincial-15",
+    "nameNe": "लुम्बिनी प्रदेश-15",
+    "slug": "lumbini-provincial-15",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.16",
+    "type": "provincial",
+    "number": 16,
+    "nameEn": "Lumbini Provincial-16",
+    "nameNe": "लुम्बिनी प्रदेश-16",
+    "slug": "lumbini-provincial-16",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.17",
+    "type": "provincial",
+    "number": 17,
+    "nameEn": "Lumbini Provincial-17",
+    "nameNe": "लुम्बिनी प्रदेश-17",
+    "slug": "lumbini-provincial-17",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.18",
+    "type": "provincial",
+    "number": 18,
+    "nameEn": "Lumbini Provincial-18",
+    "nameNe": "लुम्बिनी प्रदेश-18",
+    "slug": "lumbini-provincial-18",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.19",
+    "type": "provincial",
+    "number": 19,
+    "nameEn": "Lumbini Provincial-19",
+    "nameNe": "लुम्बिनी प्रदेश-19",
+    "slug": "lumbini-provincial-19",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.20",
+    "type": "provincial",
+    "number": 20,
+    "nameEn": "Lumbini Provincial-20",
+    "nameNe": "लुम्बिनी प्रदेश-20",
+    "slug": "lumbini-provincial-20",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.21",
+    "type": "provincial",
+    "number": 21,
+    "nameEn": "Lumbini Provincial-21",
+    "nameNe": "लुम्बिनी प्रदेश-21",
+    "slug": "lumbini-provincial-21",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.22",
+    "type": "provincial",
+    "number": 22,
+    "nameEn": "Lumbini Provincial-22",
+    "nameNe": "लुम्बिनी प्रदेश-22",
+    "slug": "lumbini-provincial-22",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.23",
+    "type": "provincial",
+    "number": 23,
+    "nameEn": "Lumbini Provincial-23",
+    "nameNe": "लुम्बिनी प्रदेश-23",
+    "slug": "lumbini-provincial-23",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.24",
+    "type": "provincial",
+    "number": 24,
+    "nameEn": "Lumbini Provincial-24",
+    "nameNe": "लुम्बिनी प्रदेश-24",
+    "slug": "lumbini-provincial-24",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.25",
+    "type": "provincial",
+    "number": 25,
+    "nameEn": "Lumbini Provincial-25",
+    "nameNe": "लुम्बिनी प्रदेश-25",
+    "slug": "lumbini-provincial-25",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.26",
+    "type": "provincial",
+    "number": 26,
+    "nameEn": "Lumbini Provincial-26",
+    "nameNe": "लुम्बिनी प्रदेश-26",
+    "slug": "lumbini-provincial-26",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.27",
+    "type": "provincial",
+    "number": 27,
+    "nameEn": "Lumbini Provincial-27",
+    "nameNe": "लुम्बिनी प्रदेश-27",
+    "slug": "lumbini-provincial-27",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.28",
+    "type": "provincial",
+    "number": 28,
+    "nameEn": "Lumbini Provincial-28",
+    "nameNe": "लुम्बिनी प्रदेश-28",
+    "slug": "lumbini-provincial-28",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.29",
+    "type": "provincial",
+    "number": 29,
+    "nameEn": "Lumbini Provincial-29",
+    "nameNe": "लुम्बिनी प्रदेश-29",
+    "slug": "lumbini-provincial-29",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.30",
+    "type": "provincial",
+    "number": 30,
+    "nameEn": "Lumbini Provincial-30",
+    "nameNe": "लुम्बिनी प्रदेश-30",
+    "slug": "lumbini-provincial-30",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.31",
+    "type": "provincial",
+    "number": 31,
+    "nameEn": "Lumbini Provincial-31",
+    "nameNe": "लुम्बिनी प्रदेश-31",
+    "slug": "lumbini-provincial-31",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.32",
+    "type": "provincial",
+    "number": 32,
+    "nameEn": "Lumbini Provincial-32",
+    "nameNe": "लुम्बिनी प्रदेश-32",
+    "slug": "lumbini-provincial-32",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.33",
+    "type": "provincial",
+    "number": 33,
+    "nameEn": "Lumbini Provincial-33",
+    "nameNe": "लुम्बिनी प्रदेश-33",
+    "slug": "lumbini-provincial-33",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.34",
+    "type": "provincial",
+    "number": 34,
+    "nameEn": "Lumbini Provincial-34",
+    "nameNe": "लुम्बिनी प्रदेश-34",
+    "slug": "lumbini-provincial-34",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.35",
+    "type": "provincial",
+    "number": 35,
+    "nameEn": "Lumbini Provincial-35",
+    "nameNe": "लुम्बिनी प्रदेश-35",
+    "slug": "lumbini-provincial-35",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.36",
+    "type": "provincial",
+    "number": 36,
+    "nameEn": "Lumbini Provincial-36",
+    "nameNe": "लुम्बिनी प्रदेश-36",
+    "slug": "lumbini-provincial-36",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.37",
+    "type": "provincial",
+    "number": 37,
+    "nameEn": "Lumbini Provincial-37",
+    "nameNe": "लुम्बिनी प्रदेश-37",
+    "slug": "lumbini-provincial-37",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.38",
+    "type": "provincial",
+    "number": 38,
+    "nameEn": "Lumbini Provincial-38",
+    "nameNe": "लुम्बिनी प्रदेश-38",
+    "slug": "lumbini-provincial-38",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.39",
+    "type": "provincial",
+    "number": 39,
+    "nameEn": "Lumbini Provincial-39",
+    "nameNe": "लुम्बिनी प्रदेश-39",
+    "slug": "lumbini-provincial-39",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.40",
+    "type": "provincial",
+    "number": 40,
+    "nameEn": "Lumbini Provincial-40",
+    "nameNe": "लुम्बिनी प्रदेश-40",
+    "slug": "lumbini-provincial-40",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.41",
+    "type": "provincial",
+    "number": 41,
+    "nameEn": "Lumbini Provincial-41",
+    "nameNe": "लुम्बिनी प्रदेश-41",
+    "slug": "lumbini-provincial-41",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.42",
+    "type": "provincial",
+    "number": 42,
+    "nameEn": "Lumbini Provincial-42",
+    "nameNe": "लुम्बिनी प्रदेश-42",
+    "slug": "lumbini-provincial-42",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.43",
+    "type": "provincial",
+    "number": 43,
+    "nameEn": "Lumbini Provincial-43",
+    "nameNe": "लुम्बिनी प्रदेश-43",
+    "slug": "lumbini-provincial-43",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.44",
+    "type": "provincial",
+    "number": 44,
+    "nameEn": "Lumbini Provincial-44",
+    "nameNe": "लुम्बिनी प्रदेश-44",
+    "slug": "lumbini-provincial-44",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.45",
+    "type": "provincial",
+    "number": 45,
+    "nameEn": "Lumbini Provincial-45",
+    "nameNe": "लुम्बिनी प्रदेश-45",
+    "slug": "lumbini-provincial-45",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.46",
+    "type": "provincial",
+    "number": 46,
+    "nameEn": "Lumbini Provincial-46",
+    "nameNe": "लुम्बिनी प्रदेश-46",
+    "slug": "lumbini-provincial-46",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.47",
+    "type": "provincial",
+    "number": 47,
+    "nameEn": "Lumbini Provincial-47",
+    "nameNe": "लुम्बिनी प्रदेश-47",
+    "slug": "lumbini-provincial-47",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.48",
+    "type": "provincial",
+    "number": 48,
+    "nameEn": "Lumbini Provincial-48",
+    "nameNe": "लुम्बिनी प्रदेश-48",
+    "slug": "lumbini-provincial-48",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.49",
+    "type": "provincial",
+    "number": 49,
+    "nameEn": "Lumbini Provincial-49",
+    "nameNe": "लुम्बिनी प्रदेश-49",
+    "slug": "lumbini-provincial-49",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.50",
+    "type": "provincial",
+    "number": 50,
+    "nameEn": "Lumbini Provincial-50",
+    "nameNe": "लुम्बिनी प्रदेश-50",
+    "slug": "lumbini-provincial-50",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.51",
+    "type": "provincial",
+    "number": 51,
+    "nameEn": "Lumbini Provincial-51",
+    "nameNe": "लुम्बिनी प्रदेश-51",
+    "slug": "lumbini-provincial-51",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P5.52",
+    "type": "provincial",
+    "number": 52,
+    "nameEn": "Lumbini Provincial-52",
+    "nameNe": "लुम्बिनी प्रदेश-52",
+    "slug": "lumbini-provincial-52",
+    "provinceId": "P5",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.1",
+    "type": "provincial",
+    "number": 1,
+    "nameEn": "Karnali Provincial-1",
+    "nameNe": "कर्णाली प्रदेश-1",
+    "slug": "karnali-provincial-1",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.2",
+    "type": "provincial",
+    "number": 2,
+    "nameEn": "Karnali Provincial-2",
+    "nameNe": "कर्णाली प्रदेश-2",
+    "slug": "karnali-provincial-2",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.3",
+    "type": "provincial",
+    "number": 3,
+    "nameEn": "Karnali Provincial-3",
+    "nameNe": "कर्णाली प्रदेश-3",
+    "slug": "karnali-provincial-3",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.4",
+    "type": "provincial",
+    "number": 4,
+    "nameEn": "Karnali Provincial-4",
+    "nameNe": "कर्णाली प्रदेश-4",
+    "slug": "karnali-provincial-4",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.5",
+    "type": "provincial",
+    "number": 5,
+    "nameEn": "Karnali Provincial-5",
+    "nameNe": "कर्णाली प्रदेश-5",
+    "slug": "karnali-provincial-5",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.6",
+    "type": "provincial",
+    "number": 6,
+    "nameEn": "Karnali Provincial-6",
+    "nameNe": "कर्णाली प्रदेश-6",
+    "slug": "karnali-provincial-6",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.7",
+    "type": "provincial",
+    "number": 7,
+    "nameEn": "Karnali Provincial-7",
+    "nameNe": "कर्णाली प्रदेश-7",
+    "slug": "karnali-provincial-7",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.8",
+    "type": "provincial",
+    "number": 8,
+    "nameEn": "Karnali Provincial-8",
+    "nameNe": "कर्णाली प्रदेश-8",
+    "slug": "karnali-provincial-8",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.9",
+    "type": "provincial",
+    "number": 9,
+    "nameEn": "Karnali Provincial-9",
+    "nameNe": "कर्णाली प्रदेश-9",
+    "slug": "karnali-provincial-9",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.10",
+    "type": "provincial",
+    "number": 10,
+    "nameEn": "Karnali Provincial-10",
+    "nameNe": "कर्णाली प्रदेश-10",
+    "slug": "karnali-provincial-10",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.11",
+    "type": "provincial",
+    "number": 11,
+    "nameEn": "Karnali Provincial-11",
+    "nameNe": "कर्णाली प्रदेश-11",
+    "slug": "karnali-provincial-11",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.12",
+    "type": "provincial",
+    "number": 12,
+    "nameEn": "Karnali Provincial-12",
+    "nameNe": "कर्णाली प्रदेश-12",
+    "slug": "karnali-provincial-12",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.13",
+    "type": "provincial",
+    "number": 13,
+    "nameEn": "Karnali Provincial-13",
+    "nameNe": "कर्णाली प्रदेश-13",
+    "slug": "karnali-provincial-13",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.14",
+    "type": "provincial",
+    "number": 14,
+    "nameEn": "Karnali Provincial-14",
+    "nameNe": "कर्णाली प्रदेश-14",
+    "slug": "karnali-provincial-14",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.15",
+    "type": "provincial",
+    "number": 15,
+    "nameEn": "Karnali Provincial-15",
+    "nameNe": "कर्णाली प्रदेश-15",
+    "slug": "karnali-provincial-15",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.16",
+    "type": "provincial",
+    "number": 16,
+    "nameEn": "Karnali Provincial-16",
+    "nameNe": "कर्णाली प्रदेश-16",
+    "slug": "karnali-provincial-16",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.17",
+    "type": "provincial",
+    "number": 17,
+    "nameEn": "Karnali Provincial-17",
+    "nameNe": "कर्णाली प्रदेश-17",
+    "slug": "karnali-provincial-17",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.18",
+    "type": "provincial",
+    "number": 18,
+    "nameEn": "Karnali Provincial-18",
+    "nameNe": "कर्णाली प्रदेश-18",
+    "slug": "karnali-provincial-18",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.19",
+    "type": "provincial",
+    "number": 19,
+    "nameEn": "Karnali Provincial-19",
+    "nameNe": "कर्णाली प्रदेश-19",
+    "slug": "karnali-provincial-19",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.20",
+    "type": "provincial",
+    "number": 20,
+    "nameEn": "Karnali Provincial-20",
+    "nameNe": "कर्णाली प्रदेश-20",
+    "slug": "karnali-provincial-20",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.21",
+    "type": "provincial",
+    "number": 21,
+    "nameEn": "Karnali Provincial-21",
+    "nameNe": "कर्णाली प्रदेश-21",
+    "slug": "karnali-provincial-21",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.22",
+    "type": "provincial",
+    "number": 22,
+    "nameEn": "Karnali Provincial-22",
+    "nameNe": "कर्णाली प्रदेश-22",
+    "slug": "karnali-provincial-22",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.23",
+    "type": "provincial",
+    "number": 23,
+    "nameEn": "Karnali Provincial-23",
+    "nameNe": "कर्णाली प्रदेश-23",
+    "slug": "karnali-provincial-23",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P6.24",
+    "type": "provincial",
+    "number": 24,
+    "nameEn": "Karnali Provincial-24",
+    "nameNe": "कर्णाली प्रदेश-24",
+    "slug": "karnali-provincial-24",
+    "provinceId": "P6",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.1",
+    "type": "provincial",
+    "number": 1,
+    "nameEn": "Sudurpashchim Provincial-1",
+    "nameNe": "सुदूरपश्चिम प्रदेश-1",
+    "slug": "sudurpashchim-provincial-1",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.2",
+    "type": "provincial",
+    "number": 2,
+    "nameEn": "Sudurpashchim Provincial-2",
+    "nameNe": "सुदूरपश्चिम प्रदेश-2",
+    "slug": "sudurpashchim-provincial-2",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.3",
+    "type": "provincial",
+    "number": 3,
+    "nameEn": "Sudurpashchim Provincial-3",
+    "nameNe": "सुदूरपश्चिम प्रदेश-3",
+    "slug": "sudurpashchim-provincial-3",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.4",
+    "type": "provincial",
+    "number": 4,
+    "nameEn": "Sudurpashchim Provincial-4",
+    "nameNe": "सुदूरपश्चिम प्रदेश-4",
+    "slug": "sudurpashchim-provincial-4",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.5",
+    "type": "provincial",
+    "number": 5,
+    "nameEn": "Sudurpashchim Provincial-5",
+    "nameNe": "सुदूरपश्चिम प्रदेश-5",
+    "slug": "sudurpashchim-provincial-5",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.6",
+    "type": "provincial",
+    "number": 6,
+    "nameEn": "Sudurpashchim Provincial-6",
+    "nameNe": "सुदूरपश्चिम प्रदेश-6",
+    "slug": "sudurpashchim-provincial-6",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.7",
+    "type": "provincial",
+    "number": 7,
+    "nameEn": "Sudurpashchim Provincial-7",
+    "nameNe": "सुदूरपश्चिम प्रदेश-7",
+    "slug": "sudurpashchim-provincial-7",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.8",
+    "type": "provincial",
+    "number": 8,
+    "nameEn": "Sudurpashchim Provincial-8",
+    "nameNe": "सुदूरपश्चिम प्रदेश-8",
+    "slug": "sudurpashchim-provincial-8",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.9",
+    "type": "provincial",
+    "number": 9,
+    "nameEn": "Sudurpashchim Provincial-9",
+    "nameNe": "सुदूरपश्चिम प्रदेश-9",
+    "slug": "sudurpashchim-provincial-9",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.10",
+    "type": "provincial",
+    "number": 10,
+    "nameEn": "Sudurpashchim Provincial-10",
+    "nameNe": "सुदूरपश्चिम प्रदेश-10",
+    "slug": "sudurpashchim-provincial-10",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.11",
+    "type": "provincial",
+    "number": 11,
+    "nameEn": "Sudurpashchim Provincial-11",
+    "nameNe": "सुदूरपश्चिम प्रदेश-11",
+    "slug": "sudurpashchim-provincial-11",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.12",
+    "type": "provincial",
+    "number": 12,
+    "nameEn": "Sudurpashchim Provincial-12",
+    "nameNe": "सुदूरपश्चिम प्रदेश-12",
+    "slug": "sudurpashchim-provincial-12",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.13",
+    "type": "provincial",
+    "number": 13,
+    "nameEn": "Sudurpashchim Provincial-13",
+    "nameNe": "सुदूरपश्चिम प्रदेश-13",
+    "slug": "sudurpashchim-provincial-13",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.14",
+    "type": "provincial",
+    "number": 14,
+    "nameEn": "Sudurpashchim Provincial-14",
+    "nameNe": "सुदूरपश्चिम प्रदेश-14",
+    "slug": "sudurpashchim-provincial-14",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.15",
+    "type": "provincial",
+    "number": 15,
+    "nameEn": "Sudurpashchim Provincial-15",
+    "nameNe": "सुदूरपश्चिम प्रदेश-15",
+    "slug": "sudurpashchim-provincial-15",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.16",
+    "type": "provincial",
+    "number": 16,
+    "nameEn": "Sudurpashchim Provincial-16",
+    "nameNe": "सुदूरपश्चिम प्रदेश-16",
+    "slug": "sudurpashchim-provincial-16",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.17",
+    "type": "provincial",
+    "number": 17,
+    "nameEn": "Sudurpashchim Provincial-17",
+    "nameNe": "सुदूरपश्चिम प्रदेश-17",
+    "slug": "sudurpashchim-provincial-17",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.18",
+    "type": "provincial",
+    "number": 18,
+    "nameEn": "Sudurpashchim Provincial-18",
+    "nameNe": "सुदूरपश्चिम प्रदेश-18",
+    "slug": "sudurpashchim-provincial-18",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.19",
+    "type": "provincial",
+    "number": 19,
+    "nameEn": "Sudurpashchim Provincial-19",
+    "nameNe": "सुदूरपश्चिम प्रदेश-19",
+    "slug": "sudurpashchim-provincial-19",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.20",
+    "type": "provincial",
+    "number": 20,
+    "nameEn": "Sudurpashchim Provincial-20",
+    "nameNe": "सुदूरपश्चिम प्रदेश-20",
+    "slug": "sudurpashchim-provincial-20",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.21",
+    "type": "provincial",
+    "number": 21,
+    "nameEn": "Sudurpashchim Provincial-21",
+    "nameNe": "सुदूरपश्चिम प्रदेश-21",
+    "slug": "sudurpashchim-provincial-21",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.22",
+    "type": "provincial",
+    "number": 22,
+    "nameEn": "Sudurpashchim Provincial-22",
+    "nameNe": "सुदूरपश्चिम प्रदेश-22",
+    "slug": "sudurpashchim-provincial-22",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.23",
+    "type": "provincial",
+    "number": 23,
+    "nameEn": "Sudurpashchim Provincial-23",
+    "nameNe": "सुदूरपश्चिम प्रदेश-23",
+    "slug": "sudurpashchim-provincial-23",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.24",
+    "type": "provincial",
+    "number": 24,
+    "nameEn": "Sudurpashchim Provincial-24",
+    "nameNe": "सुदूरपश्चिम प्रदेश-24",
+    "slug": "sudurpashchim-provincial-24",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.25",
+    "type": "provincial",
+    "number": 25,
+    "nameEn": "Sudurpashchim Provincial-25",
+    "nameNe": "सुदूरपश्चिम प्रदेश-25",
+    "slug": "sudurpashchim-provincial-25",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.26",
+    "type": "provincial",
+    "number": 26,
+    "nameEn": "Sudurpashchim Provincial-26",
+    "nameNe": "सुदूरपश्चिम प्रदेश-26",
+    "slug": "sudurpashchim-provincial-26",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.27",
+    "type": "provincial",
+    "number": 27,
+    "nameEn": "Sudurpashchim Provincial-27",
+    "nameNe": "सुदूरपश्चिम प्रदेश-27",
+    "slug": "sudurpashchim-provincial-27",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.28",
+    "type": "provincial",
+    "number": 28,
+    "nameEn": "Sudurpashchim Provincial-28",
+    "nameNe": "सुदूरपश्चिम प्रदेश-28",
+    "slug": "sudurpashchim-provincial-28",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.29",
+    "type": "provincial",
+    "number": 29,
+    "nameEn": "Sudurpashchim Provincial-29",
+    "nameNe": "सुदूरपश्चिम प्रदेश-29",
+    "slug": "sudurpashchim-provincial-29",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.30",
+    "type": "provincial",
+    "number": 30,
+    "nameEn": "Sudurpashchim Provincial-30",
+    "nameNe": "सुदूरपश्चिम प्रदेश-30",
+    "slug": "sudurpashchim-provincial-30",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.31",
+    "type": "provincial",
+    "number": 31,
+    "nameEn": "Sudurpashchim Provincial-31",
+    "nameNe": "सुदूरपश्चिम प्रदेश-31",
+    "slug": "sudurpashchim-provincial-31",
+    "provinceId": "P7",
+    "districtId": null
+  },
+  {
+    "id": "PR.P7.32",
+    "type": "provincial",
+    "number": 32,
+    "nameEn": "Sudurpashchim Provincial-32",
+    "nameNe": "सुदूरपश्चिम प्रदेश-32",
+    "slug": "sudurpashchim-provincial-32",
+    "provinceId": "P7",
+    "districtId": null
+  }
+]

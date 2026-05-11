@@ -1,0 +1,46 @@
+{
+    "name": "@rayzenai/nepali-map",
+    "version": "0.1.0",
+    "description": "Nepal administrative geography + interactive Svelte map. Data vendored from nepali-geo-pro-max.",
+    "type": "module",
+    "license": "MIT",
+    "author": "Kiran Timsina <timsinakiran@gmail.com>",
+    "keywords": [
+        "nepal",
+        "nepali",
+        "svelte",
+        "map",
+        "geography",
+        "districts",
+        "provinces",
+        "palika"
+    ],
+    "exports": {
+        ".": {
+            "types": "./js/src/index.ts",
+            "svelte": "./js/src/index.ts",
+            "default": "./js/src/index.ts"
+        },
+        "./svelte": {
+            "types": "./js/src/components/NepalMap.svelte",
+            "svelte": "./js/src/components/NepalMap.svelte",
+            "default": "./js/src/components/NepalMap.svelte"
+        },
+        "./data/*": "./data/*"
+    },
+    "files": [
+        "js",
+        "data",
+        "README.md",
+        "LICENSE"
+    ],
+    "sideEffects": false,
+    "peerDependencies": {
+        "svelte": "^5.0.0"
+    },
+    "peerDependenciesMeta": {
+        "svelte": {
+            "optional": true
+        }
+    }
+}

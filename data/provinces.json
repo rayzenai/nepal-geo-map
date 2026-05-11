@@ -1,0 +1,148 @@
+[
+  {
+    "id": "P1",
+    "number": 1,
+    "nameEn": "Koshi",
+    "nameNe": "कोशी",
+    "capital": "Biratnagar",
+    "capitalNe": "विराटनगर",
+    "capitalCoords": {
+      "lat": 26.4525,
+      "lng": 87.2718
+    },
+    "areaKm2": 25905,
+    "population": 4961412,
+    "slug": "koshi",
+    "aliases": [
+      "Province 1",
+      "Province No. 1",
+      "Koshi Pradesh",
+      "प्रदेश १"
+    ]
+  },
+  {
+    "id": "P2",
+    "number": 2,
+    "nameEn": "Madhesh",
+    "nameNe": "मधेश",
+    "capital": "Janakpur",
+    "capitalNe": "जनकपुर",
+    "capitalCoords": {
+      "lat": 26.7271,
+      "lng": 85.9407
+    },
+    "areaKm2": 9661,
+    "population": 6114600,
+    "slug": "madhesh",
+    "aliases": [
+      "Province 2",
+      "Madhesh Pradesh",
+      "Madhes",
+      "प्रदेश २"
+    ]
+  },
+  {
+    "id": "P3",
+    "number": 3,
+    "nameEn": "Bagmati",
+    "nameNe": "बागमती",
+    "capital": "Hetauda",
+    "capitalNe": "हेटौँडा",
+    "capitalCoords": {
+      "lat": 27.4287,
+      "lng": 85.0322
+    },
+    "areaKm2": 20300,
+    "population": 6116866,
+    "slug": "bagmati",
+    "aliases": [
+      "Province 3",
+      "Bagmati Pradesh",
+      "प्रदेश ३"
+    ]
+  },
+  {
+    "id": "P4",
+    "number": 4,
+    "nameEn": "Gandaki",
+    "nameNe": "गण्डकी",
+    "capital": "Pokhara",
+    "capitalNe": "पोखरा",
+    "capitalCoords": {
+      "lat": 28.2096,
+      "lng": 83.9856
+    },
+    "areaKm2": 21504,
+    "population": 2479745,
+    "slug": "gandaki",
+    "aliases": [
+      "Province 4",
+      "Gandaki Pradesh",
+      "प्रदेश ४"
+    ]
+  },
+  {
+    "id": "P5",
+    "number": 5,
+    "nameEn": "Lumbini",
+    "nameNe": "लुम्बिनी",
+    "capital": "Deukhuri",
+    "capitalNe": "देउखुरी",
+    "capitalCoords": {
+      "lat": 27.9927,
+      "lng": 82.5969
+    },
+    "areaKm2": 22288,
+    "population": 5124225,
+    "slug": "lumbini",
+    "aliases": [
+      "Province 5",
+      "Lumbini Pradesh",
+      "Butwal (interim)",
+      "प्रदेश ५"
+    ]
+  },
+  {
+    "id": "P6",
+    "number": 6,
+    "nameEn": "Karnali",
+    "nameNe": "कर्णाली",
+    "capital": "Birendranagar",
+    "capitalNe": "वीरेन्द्रनगर",
+    "capitalCoords": {
+      "lat": 28.599,
+      "lng": 81.6332
+    },
+    "areaKm2": 27984,
+    "population": 1694889,
+    "slug": "karnali",
+    "aliases": [
+      "Province 6",
+      "Karnali Pradesh",
+      "प्रदेश ६"
+    ]
+  },
+  {
+    "id": "P7",
+    "number": 7,
+    "nameEn": "Sudurpashchim",
+    "nameNe": "सुदूरपश्चिम",
+    "capital": "Godawari",
+    "capitalNe": "गोदावरी",
+    "capitalCoords": {
+      "lat": 28.9986,
+      "lng": 80.5847
+    },
+    "areaKm2": 19539,
+    "population": 2711270,
+    "slug": "sudurpashchim",
+    "aliases": [
+      "Province 7",
+      "Sudurpashchim Pradesh",
+      "Sudur Paschim",
+      "Far-Western",
+      "Far Western",
+      "प्रदेश ७"
+    ]
+  }
+]
