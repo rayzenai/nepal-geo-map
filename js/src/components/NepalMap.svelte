@@ -71,13 +71,18 @@
     const districtBySource = new Map(DISTRICTS.map((d) => [d.id, d.slug]));
 
     const districtPaths: DistrictPath[] = projection.paths.map((p) => {
-        const props = p.feature.properties as { id: string; provinceId: string; nameEn: string };
-        const slug = remap(districtBySource.get(props.id) ?? props.id);
+        // `toSvgPaths` is generic over the feature type, so `properties`
+        // already narrows to the DistrictGeoFeature shape here.
+        const { id, provinceId, nameEn } = p.feature.properties as {
+            id: import('../types').DistrictId;
+            provinceId: import('../types').ProvinceId;
+            nameEn: string;
+        };
         return {
-            slug,
+            slug: remap(districtBySource.get(id) ?? id),
             d: p.d,
-            provinceNum: provinceNumberById.get(props.provinceId) ?? 0,
-            nameEn: props.nameEn,
+            provinceNum: provinceNumberById.get(provinceId) ?? 0,
+            nameEn,
         };
     });
 
