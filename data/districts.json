@@ -1,0 +1,720 @@
+[
+  {
+    "id": "P1.D01",
+    "nameEn": "Bhojpur",
+    "nameNe": "भोजपुर",
+    "provinceId": "P1",
+    "headquarters": "Bhojpur",
+    "slug": "bhojpur",
+    "aliases": []
+  },
+  {
+    "id": "P1.D02",
+    "nameEn": "Dhankuta",
+    "nameNe": "धनकुटा",
+    "provinceId": "P1",
+    "headquarters": "Dhankuta",
+    "slug": "dhankuta",
+    "aliases": []
+  },
+  {
+    "id": "P1.D03",
+    "nameEn": "Ilam",
+    "nameNe": "इलाम",
+    "provinceId": "P1",
+    "headquarters": "Ilam",
+    "slug": "ilam",
+    "aliases": []
+  },
+  {
+    "id": "P1.D04",
+    "nameEn": "Jhapa",
+    "nameNe": "झापा",
+    "provinceId": "P1",
+    "headquarters": "Bhadrapur",
+    "slug": "jhapa",
+    "aliases": []
+  },
+  {
+    "id": "P1.D05",
+    "nameEn": "Khotang",
+    "nameNe": "खोटाङ",
+    "provinceId": "P1",
+    "headquarters": "Diktel",
+    "slug": "khotang",
+    "aliases": []
+  },
+  {
+    "id": "P1.D06",
+    "nameEn": "Morang",
+    "nameNe": "मोरङ",
+    "provinceId": "P1",
+    "headquarters": "Biratnagar",
+    "slug": "morang",
+    "aliases": []
+  },
+  {
+    "id": "P1.D07",
+    "nameEn": "Okhaldhunga",
+    "nameNe": "ओखलढुङ्गा",
+    "provinceId": "P1",
+    "headquarters": "Okhaldhunga",
+    "slug": "okhaldhunga",
+    "aliases": []
+  },
+  {
+    "id": "P1.D08",
+    "nameEn": "Panchthar",
+    "nameNe": "पाँचथर",
+    "provinceId": "P1",
+    "headquarters": "Phidim",
+    "slug": "panchthar",
+    "aliases": []
+  },
+  {
+    "id": "P1.D09",
+    "nameEn": "Sankhuwasabha",
+    "nameNe": "संखुवासभा",
+    "provinceId": "P1",
+    "headquarters": "Khandbari",
+    "slug": "sankhuwasabha",
+    "aliases": []
+  },
+  {
+    "id": "P1.D10",
+    "nameEn": "Solukhumbu",
+    "nameNe": "सोलुखुम्बु",
+    "provinceId": "P1",
+    "headquarters": "Salleri",
+    "slug": "solukhumbu",
+    "aliases": []
+  },
+  {
+    "id": "P1.D11",
+    "nameEn": "Sunsari",
+    "nameNe": "सुनसरी",
+    "provinceId": "P1",
+    "headquarters": "Inaruwa",
+    "slug": "sunsari",
+    "aliases": []
+  },
+  {
+    "id": "P1.D12",
+    "nameEn": "Taplejung",
+    "nameNe": "ताप्लेजुङ",
+    "provinceId": "P1",
+    "headquarters": "Phungling",
+    "slug": "taplejung",
+    "aliases": []
+  },
+  {
+    "id": "P1.D13",
+    "nameEn": "Terhathum",
+    "nameNe": "तेह्रथुम",
+    "provinceId": "P1",
+    "headquarters": "Myanglung",
+    "slug": "terhathum",
+    "aliases": [
+      "Tehrathum"
+    ]
+  },
+  {
+    "id": "P1.D14",
+    "nameEn": "Udayapur",
+    "nameNe": "उदयपुर",
+    "provinceId": "P1",
+    "headquarters": "Triyuga",
+    "slug": "udayapur",
+    "aliases": []
+  },
+  {
+    "id": "P2.D01",
+    "nameEn": "Bara",
+    "nameNe": "बारा",
+    "provinceId": "P2",
+    "headquarters": "Kalaiya",
+    "slug": "bara",
+    "aliases": []
+  },
+  {
+    "id": "P2.D02",
+    "nameEn": "Dhanusha",
+    "nameNe": "धनुषा",
+    "provinceId": "P2",
+    "headquarters": "Janakpur",
+    "slug": "dhanusha",
+    "aliases": []
+  },
+  {
+    "id": "P2.D03",
+    "nameEn": "Mahottari",
+    "nameNe": "महोत्तरी",
+    "provinceId": "P2",
+    "headquarters": "Jaleshwar",
+    "slug": "mahottari",
+    "aliases": []
+  },
+  {
+    "id": "P2.D04",
+    "nameEn": "Parsa",
+    "nameNe": "पर्सा",
+    "provinceId": "P2",
+    "headquarters": "Birgunj",
+    "slug": "parsa",
+    "aliases": []
+  },
+  {
+    "id": "P2.D05",
+    "nameEn": "Rautahat",
+    "nameNe": "रौतहट",
+    "provinceId": "P2",
+    "headquarters": "Gaur",
+    "slug": "rautahat",
+    "aliases": []
+  },
+  {
+    "id": "P2.D06",
+    "nameEn": "Saptari",
+    "nameNe": "सप्तरी",
+    "provinceId": "P2",
+    "headquarters": "Rajbiraj",
+    "slug": "saptari",
+    "aliases": []
+  },
+  {
+    "id": "P2.D07",
+    "nameEn": "Sarlahi",
+    "nameNe": "सर्लाही",
+    "provinceId": "P2",
+    "headquarters": "Malangwa",
+    "slug": "sarlahi",
+    "aliases": []
+  },
+  {
+    "id": "P2.D08",
+    "nameEn": "Siraha",
+    "nameNe": "सिराहा",
+    "provinceId": "P2",
+    "headquarters": "Siraha",
+    "slug": "siraha",
+    "aliases": []
+  },
+  {
+    "id": "P3.D01",
+    "nameEn": "Bhaktapur",
+    "nameNe": "भक्तपुर",
+    "provinceId": "P3",
+    "headquarters": "Bhaktapur",
+    "slug": "bhaktapur",
+    "aliases": []
+  },
+  {
+    "id": "P3.D02",
+    "nameEn": "Chitwan",
+    "nameNe": "चितवन",
+    "provinceId": "P3",
+    "headquarters": "Bharatpur",
+    "slug": "chitwan",
+    "aliases": []
+  },
+  {
+    "id": "P3.D03",
+    "nameEn": "Dhading",
+    "nameNe": "धादिङ",
+    "provinceId": "P3",
+    "headquarters": "Dhading Besi",
+    "slug": "dhading",
+    "aliases": []
+  },
+  {
+    "id": "P3.D04",
+    "nameEn": "Dolakha",
+    "nameNe": "दोलखा",
+    "provinceId": "P3",
+    "headquarters": "Charikot",
+    "slug": "dolakha",
+    "aliases": []
+  },
+  {
+    "id": "P3.D05",
+    "nameEn": "Kathmandu",
+    "nameNe": "काठमाडौँ",
+    "provinceId": "P3",
+    "headquarters": "Kathmandu",
+    "slug": "kathmandu",
+    "aliases": [
+      "KTM"
+    ]
+  },
+  {
+    "id": "P3.D06",
+    "nameEn": "Kavrepalanchok",
+    "nameNe": "काभ्रेपलाञ्चोक",
+    "provinceId": "P3",
+    "headquarters": "Dhulikhel",
+    "slug": "kavrepalanchok",
+    "aliases": [
+      "Kavre",
+      "Kabhre"
+    ]
+  },
+  {
+    "id": "P3.D07",
+    "nameEn": "Lalitpur",
+    "nameNe": "ललितपुर",
+    "provinceId": "P3",
+    "headquarters": "Lalitpur",
+    "slug": "lalitpur",
+    "aliases": [
+      "Patan"
+    ]
+  },
+  {
+    "id": "P3.D08",
+    "nameEn": "Makwanpur",
+    "nameNe": "मकवानपुर",
+    "provinceId": "P3",
+    "headquarters": "Hetauda",
+    "slug": "makwanpur",
+    "aliases": []
+  },
+  {
+    "id": "P3.D09",
+    "nameEn": "Nuwakot",
+    "nameNe": "नुवाकोट",
+    "provinceId": "P3",
+    "headquarters": "Bidur",
+    "slug": "nuwakot",
+    "aliases": []
+  },
+  {
+    "id": "P3.D10",
+    "nameEn": "Ramechhap",
+    "nameNe": "रामेछाप",
+    "provinceId": "P3",
+    "headquarters": "Manthali",
+    "slug": "ramechhap",
+    "aliases": []
+  },
+  {
+    "id": "P3.D11",
+    "nameEn": "Rasuwa",
+    "nameNe": "रसुवा",
+    "provinceId": "P3",
+    "headquarters": "Dhunche",
+    "slug": "rasuwa",
+    "aliases": []
+  },
+  {
+    "id": "P3.D12",
+    "nameEn": "Sindhuli",
+    "nameNe": "सिन्धुली",
+    "provinceId": "P3",
+    "headquarters": "Sindhulimadi",
+    "slug": "sindhuli",
+    "aliases": []
+  },
+  {
+    "id": "P3.D13",
+    "nameEn": "Sindhupalchok",
+    "nameNe": "सिन्धुपाल्चोक",
+    "provinceId": "P3",
+    "headquarters": "Chautara",
+    "slug": "sindhupalchok",
+    "aliases": []
+  },
+  {
+    "id": "P4.D01",
+    "nameEn": "Baglung",
+    "nameNe": "बाग्लुङ",
+    "provinceId": "P4",
+    "headquarters": "Baglung",
+    "slug": "baglung",
+    "aliases": []
+  },
+  {
+    "id": "P4.D02",
+    "nameEn": "Gorkha",
+    "nameNe": "गोरखा",
+    "provinceId": "P4",
+    "headquarters": "Gorkha",
+    "slug": "gorkha",
+    "aliases": []
+  },
+  {
+    "id": "P4.D03",
+    "nameEn": "Kaski",
+    "nameNe": "कास्की",
+    "provinceId": "P4",
+    "headquarters": "Pokhara",
+    "slug": "kaski",
+    "aliases": []
+  },
+  {
+    "id": "P4.D04",
+    "nameEn": "Lamjung",
+    "nameNe": "लमजुङ",
+    "provinceId": "P4",
+    "headquarters": "Besisahar",
+    "slug": "lamjung",
+    "aliases": []
+  },
+  {
+    "id": "P4.D05",
+    "nameEn": "Manang",
+    "nameNe": "मनाङ",
+    "provinceId": "P4",
+    "headquarters": "Chame",
+    "slug": "manang",
+    "aliases": []
+  },
+  {
+    "id": "P4.D06",
+    "nameEn": "Mustang",
+    "nameNe": "मुस्ताङ",
+    "provinceId": "P4",
+    "headquarters": "Jomsom",
+    "slug": "mustang",
+    "aliases": []
+  },
+  {
+    "id": "P4.D07",
+    "nameEn": "Myagdi",
+    "nameNe": "म्याग्दी",
+    "provinceId": "P4",
+    "headquarters": "Beni",
+    "slug": "myagdi",
+    "aliases": []
+  },
+  {
+    "id": "P4.D08",
+    "nameEn": "Nawalpur",
+    "nameNe": "नवलपुर",
+    "provinceId": "P4",
+    "headquarters": "Kawasoti",
+    "slug": "nawalpur",
+    "aliases": [
+      "Nawalparasi East",
+      "Nawalparasi (Bardaghat-Susta East)"
+    ]
+  },
+  {
+    "id": "P4.D09",
+    "nameEn": "Parbat",
+    "nameNe": "पर्बत",
+    "provinceId": "P4",
+    "headquarters": "Kushma",
+    "slug": "parbat",
+    "aliases": []
+  },
+  {
+    "id": "P4.D10",
+    "nameEn": "Syangja",
+    "nameNe": "स्याङ्जा",
+    "provinceId": "P4",
+    "headquarters": "Syangja",
+    "slug": "syangja",
+    "aliases": []
+  },
+  {
+    "id": "P4.D11",
+    "nameEn": "Tanahun",
+    "nameNe": "तनहुँ",
+    "provinceId": "P4",
+    "headquarters": "Damauli",
+    "slug": "tanahun",
+    "aliases": []
+  },
+  {
+    "id": "P5.D01",
+    "nameEn": "Arghakhanchi",
+    "nameNe": "अर्घाखाँची",
+    "provinceId": "P5",
+    "headquarters": "Sandhikharka",
+    "slug": "arghakhanchi",
+    "aliases": []
+  },
+  {
+    "id": "P5.D02",
+    "nameEn": "Banke",
+    "nameNe": "बाँके",
+    "provinceId": "P5",
+    "headquarters": "Nepalgunj",
+    "slug": "banke",
+    "aliases": []
+  },
+  {
+    "id": "P5.D03",
+    "nameEn": "Bardiya",
+    "nameNe": "बर्दिया",
+    "provinceId": "P5",
+    "headquarters": "Gulariya",
+    "slug": "bardiya",
+    "aliases": []
+  },
+  {
+    "id": "P5.D04",
+    "nameEn": "Dang",
+    "nameNe": "दाङ",
+    "provinceId": "P5",
+    "headquarters": "Ghorahi",
+    "slug": "dang",
+    "aliases": []
+  },
+  {
+    "id": "P5.D05",
+    "nameEn": "Eastern Rukum",
+    "nameNe": "पूर्वी रुकुम",
+    "provinceId": "P5",
+    "headquarters": "Rukumkot",
+    "slug": "eastern-rukum",
+    "aliases": [
+      "Rukum East",
+      "Rukum Purba"
+    ]
+  },
+  {
+    "id": "P5.D06",
+    "nameEn": "Gulmi",
+    "nameNe": "गुल्मी",
+    "provinceId": "P5",
+    "headquarters": "Tamghas",
+    "slug": "gulmi",
+    "aliases": []
+  },
+  {
+    "id": "P5.D07",
+    "nameEn": "Kapilvastu",
+    "nameNe": "कपिलवस्तु",
+    "provinceId": "P5",
+    "headquarters": "Taulihawa",
+    "slug": "kapilvastu",
+    "aliases": []
+  },
+  {
+    "id": "P5.D08",
+    "nameEn": "Palpa",
+    "nameNe": "पाल्पा",
+    "provinceId": "P5",
+    "headquarters": "Tansen",
+    "slug": "palpa",
+    "aliases": []
+  },
+  {
+    "id": "P5.D09",
+    "nameEn": "Parasi",
+    "nameNe": "परासी",
+    "provinceId": "P5",
+    "headquarters": "Ramgram",
+    "slug": "parasi",
+    "aliases": [
+      "Nawalparasi West",
+      "Nawalparasi (Bardaghat-Susta West)"
+    ]
+  },
+  {
+    "id": "P5.D10",
+    "nameEn": "Pyuthan",
+    "nameNe": "प्युठान",
+    "provinceId": "P5",
+    "headquarters": "Pyuthan",
+    "slug": "pyuthan",
+    "aliases": []
+  },
+  {
+    "id": "P5.D11",
+    "nameEn": "Rolpa",
+    "nameNe": "रोल्पा",
+    "provinceId": "P5",
+    "headquarters": "Liwang",
+    "slug": "rolpa",
+    "aliases": []
+  },
+  {
+    "id": "P5.D12",
+    "nameEn": "Rupandehi",
+    "nameNe": "रुपन्देही",
+    "provinceId": "P5",
+    "headquarters": "Siddharthanagar",
+    "slug": "rupandehi",
+    "aliases": [
+      "Bhairahawa"
+    ]
+  },
+  {
+    "id": "P6.D01",
+    "nameEn": "Dailekh",
+    "nameNe": "दैलेख",
+    "provinceId": "P6",
+    "headquarters": "Narayan",
+    "slug": "dailekh",
+    "aliases": []
+  },
+  {
+    "id": "P6.D02",
+    "nameEn": "Dolpa",
+    "nameNe": "डोल्पा",
+    "provinceId": "P6",
+    "headquarters": "Dunai",
+    "slug": "dolpa",
+    "aliases": []
+  },
+  {
+    "id": "P6.D03",
+    "nameEn": "Humla",
+    "nameNe": "हुम्ला",
+    "provinceId": "P6",
+    "headquarters": "Simikot",
+    "slug": "humla",
+    "aliases": []
+  },
+  {
+    "id": "P6.D04",
+    "nameEn": "Jajarkot",
+    "nameNe": "जाजरकोट",
+    "provinceId": "P6",
+    "headquarters": "Khalanga",
+    "slug": "jajarkot",
+    "aliases": []
+  },
+  {
+    "id": "P6.D05",
+    "nameEn": "Jumla",
+    "nameNe": "जुम्ला",
+    "provinceId": "P6",
+    "headquarters": "Jumla",
+    "slug": "jumla",
+    "aliases": []
+  },
+  {
+    "id": "P6.D06",
+    "nameEn": "Kalikot",
+    "nameNe": "कालिकोट",
+    "provinceId": "P6",
+    "headquarters": "Manma",
+    "slug": "kalikot",
+    "aliases": []
+  },
+  {
+    "id": "P6.D07",
+    "nameEn": "Mugu",
+    "nameNe": "मुगु",
+    "provinceId": "P6",
+    "headquarters": "Gamgadhi",
+    "slug": "mugu",
+    "aliases": []
+  },
+  {
+    "id": "P6.D08",
+    "nameEn": "Salyan",
+    "nameNe": "सल्यान",
+    "provinceId": "P6",
+    "headquarters": "Salyan",
+    "slug": "salyan",
+    "aliases": []
+  },
+  {
+    "id": "P6.D09",
+    "nameEn": "Surkhet",
+    "nameNe": "सुर्खेत",
+    "provinceId": "P6",
+    "headquarters": "Birendranagar",
+    "slug": "surkhet",
+    "aliases": []
+  },
+  {
+    "id": "P6.D10",
+    "nameEn": "Western Rukum",
+    "nameNe": "पश्चिमी रुकुम",
+    "provinceId": "P6",
+    "headquarters": "Musikot",
+    "slug": "western-rukum",
+    "aliases": [
+      "Rukum West",
+      "Rukum Pashchim"
+    ]
+  },
+  {
+    "id": "P7.D01",
+    "nameEn": "Achham",
+    "nameNe": "अछाम",
+    "provinceId": "P7",
+    "headquarters": "Mangalsen",
+    "slug": "achham",
+    "aliases": []
+  },
+  {
+    "id": "P7.D02",
+    "nameEn": "Baitadi",
+    "nameNe": "बैतडी",
+    "provinceId": "P7",
+    "headquarters": "Baitadi",
+    "slug": "baitadi",
+    "aliases": []
+  },
+  {
+    "id": "P7.D03",
+    "nameEn": "Bajhang",
+    "nameNe": "बझाङ",
+    "provinceId": "P7",
+    "headquarters": "Chainpur",
+    "slug": "bajhang",
+    "aliases": []
+  },
+  {
+    "id": "P7.D04",
+    "nameEn": "Bajura",
+    "nameNe": "बाजुरा",
+    "provinceId": "P7",
+    "headquarters": "Martadi",
+    "slug": "bajura",
+    "aliases": []
+  },
+  {
+    "id": "P7.D05",
+    "nameEn": "Dadeldhura",
+    "nameNe": "डडेल्धुरा",
+    "provinceId": "P7",
+    "headquarters": "Dadeldhura",
+    "slug": "dadeldhura",
+    "aliases": []
+  },
+  {
+    "id": "P7.D06",
+    "nameEn": "Darchula",
+    "nameNe": "दार्चुला",
+    "provinceId": "P7",
+    "headquarters": "Khalanga",
+    "slug": "darchula",
+    "aliases": []
+  },
+  {
+    "id": "P7.D07",
+    "nameEn": "Doti",
+    "nameNe": "डोटी",
+    "provinceId": "P7",
+    "headquarters": "Dipayal Silgadhi",
+    "slug": "doti",
+    "aliases": []
+  },
+  {
+    "id": "P7.D08",
+    "nameEn": "Kailali",
+    "nameNe": "कैलाली",
+    "provinceId": "P7",
+    "headquarters": "Dhangadhi",
+    "slug": "kailali",
+    "aliases": []
+  },
+  {
+    "id": "P7.D09",
+    "nameEn": "Kanchanpur",
+    "nameNe": "कञ्चनपुर",
+    "provinceId": "P7",
+    "headquarters": "Bhimdatta",
+    "slug": "kanchanpur",
+    "aliases": [
+      "Mahendranagar"
+    ]
+  }
+]

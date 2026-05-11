@@ -1,0 +1,67 @@
+{
+    "name": "rayzenai/nepali-geo-map",
+    "version": "0.1.0",
+    "description": "Nepal administrative geography (provinces, districts, palikas), postal codes, point-in-polygon, address utilities.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "nepal",
+        "nepali",
+        "geography",
+        "districts",
+        "provinces",
+        "palika",
+        "postal-code",
+        "geocoding",
+        "laravel"
+    ],
+    "authors": [
+        {
+            "name": "Kiran Timsina",
+            "email": "timsinakiran@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "require-dev": {
+        "illuminate/database": "^11.0 || ^12.0 || ^13.0",
+        "illuminate/support": "^11.0 || ^12.0 || ^13.0",
+        "illuminate/console": "^11.0 || ^12.0 || ^13.0",
+        "pestphp/pest": "^3.0 || ^4.0",
+        "phpunit/phpunit": "^11.0 || ^12.0"
+    },
+    "suggest": {
+        "illuminate/database": "Required to use the bundled Laravel migrations and seeder.",
+        "illuminate/support": "Required to register the bundled service provider."
+    },
+    "autoload": {
+        "psr-4": {
+            "RayzenAI\\NepaliGeoMap\\": "src/",
+            "RayzenAI\\NepaliGeoMap\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "RayzenAI\\NepaliGeoMap\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/pest"
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "extra": {
+        "laravel": {
+            "providers": [
+                "RayzenAI\\NepaliGeoMap\\Laravel\\NepaliGeoMapServiceProvider"
+            ]
+        }
+    }
+}

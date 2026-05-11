@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-05-11T03:26:52.553Z",
+  "districtsByProvinceCount": {
+    "P1": 14,
+    "P2": 8,
+    "P3": 13,
+    "P4": 11,
+    "P5": 12,
+    "P6": 10,
+    "P7": 9
+  },
+  "localUnitTypeCounts": {
+    "metropolitan": 6,
+    "sub-metropolitan": 11,
+    "municipality": 276,
+    "rural-municipality": 460
+  },
+  "totalLocalUnits": 753,
+  "totalLegacyDistricts": 75
+}

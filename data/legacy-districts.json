@@ -1,0 +1,850 @@
+[
+  {
+    "id": "LD01",
+    "nameEn": "Jhapa",
+    "nameNe": "झापा",
+    "zoneId": "Z01",
+    "currentDistrictIds": [
+      "P1.D04"
+    ],
+    "slug": "jhapa",
+    "aliases": []
+  },
+  {
+    "id": "LD02",
+    "nameEn": "Ilam",
+    "nameNe": "इलाम",
+    "zoneId": "Z01",
+    "currentDistrictIds": [
+      "P1.D03"
+    ],
+    "slug": "ilam",
+    "aliases": []
+  },
+  {
+    "id": "LD03",
+    "nameEn": "Panchthar",
+    "nameNe": "पाँचथर",
+    "zoneId": "Z01",
+    "currentDistrictIds": [
+      "P1.D08"
+    ],
+    "slug": "panchthar",
+    "aliases": []
+  },
+  {
+    "id": "LD04",
+    "nameEn": "Taplejung",
+    "nameNe": "ताप्लेजुङ",
+    "zoneId": "Z01",
+    "currentDistrictIds": [
+      "P1.D12"
+    ],
+    "slug": "taplejung",
+    "aliases": []
+  },
+  {
+    "id": "LD05",
+    "nameEn": "Morang",
+    "nameNe": "मोरङ",
+    "zoneId": "Z02",
+    "currentDistrictIds": [
+      "P1.D06"
+    ],
+    "slug": "morang",
+    "aliases": []
+  },
+  {
+    "id": "LD06",
+    "nameEn": "Sunsari",
+    "nameNe": "सुनसरी",
+    "zoneId": "Z02",
+    "currentDistrictIds": [
+      "P1.D11"
+    ],
+    "slug": "sunsari",
+    "aliases": []
+  },
+  {
+    "id": "LD07",
+    "nameEn": "Dhankuta",
+    "nameNe": "धनकुटा",
+    "zoneId": "Z02",
+    "currentDistrictIds": [
+      "P1.D02"
+    ],
+    "slug": "dhankuta",
+    "aliases": []
+  },
+  {
+    "id": "LD08",
+    "nameEn": "Terhathum",
+    "nameNe": "तेह्रथुम",
+    "zoneId": "Z02",
+    "currentDistrictIds": [
+      "P1.D13"
+    ],
+    "slug": "terhathum",
+    "aliases": [
+      "Tehrathum"
+    ]
+  },
+  {
+    "id": "LD09",
+    "nameEn": "Sankhuwasabha",
+    "nameNe": "संखुवासभा",
+    "zoneId": "Z02",
+    "currentDistrictIds": [
+      "P1.D09"
+    ],
+    "slug": "sankhuwasabha",
+    "aliases": []
+  },
+  {
+    "id": "LD10",
+    "nameEn": "Bhojpur",
+    "nameNe": "भोजपुर",
+    "zoneId": "Z02",
+    "currentDistrictIds": [
+      "P1.D01"
+    ],
+    "slug": "bhojpur",
+    "aliases": []
+  },
+  {
+    "id": "LD11",
+    "nameEn": "Saptari",
+    "nameNe": "सप्तरी",
+    "zoneId": "Z03",
+    "currentDistrictIds": [
+      "P2.D06"
+    ],
+    "slug": "saptari",
+    "aliases": []
+  },
+  {
+    "id": "LD12",
+    "nameEn": "Siraha",
+    "nameNe": "सिराहा",
+    "zoneId": "Z03",
+    "currentDistrictIds": [
+      "P2.D08"
+    ],
+    "slug": "siraha",
+    "aliases": []
+  },
+  {
+    "id": "LD13",
+    "nameEn": "Udayapur",
+    "nameNe": "उदयपुर",
+    "zoneId": "Z03",
+    "currentDistrictIds": [
+      "P1.D14"
+    ],
+    "slug": "udayapur",
+    "aliases": []
+  },
+  {
+    "id": "LD14",
+    "nameEn": "Khotang",
+    "nameNe": "खोटाङ",
+    "zoneId": "Z03",
+    "currentDistrictIds": [
+      "P1.D05"
+    ],
+    "slug": "khotang",
+    "aliases": []
+  },
+  {
+    "id": "LD15",
+    "nameEn": "Okhaldhunga",
+    "nameNe": "ओखलढुङ्गा",
+    "zoneId": "Z03",
+    "currentDistrictIds": [
+      "P1.D07"
+    ],
+    "slug": "okhaldhunga",
+    "aliases": []
+  },
+  {
+    "id": "LD16",
+    "nameEn": "Solukhumbu",
+    "nameNe": "सोलुखुम्बु",
+    "zoneId": "Z03",
+    "currentDistrictIds": [
+      "P1.D10"
+    ],
+    "slug": "solukhumbu",
+    "aliases": []
+  },
+  {
+    "id": "LD17",
+    "nameEn": "Dhanusha",
+    "nameNe": "धनुषा",
+    "zoneId": "Z04",
+    "currentDistrictIds": [
+      "P2.D02"
+    ],
+    "slug": "dhanusha",
+    "aliases": []
+  },
+  {
+    "id": "LD18",
+    "nameEn": "Mahottari",
+    "nameNe": "महोत्तरी",
+    "zoneId": "Z04",
+    "currentDistrictIds": [
+      "P2.D03"
+    ],
+    "slug": "mahottari",
+    "aliases": []
+  },
+  {
+    "id": "LD19",
+    "nameEn": "Sarlahi",
+    "nameNe": "सर्लाही",
+    "zoneId": "Z04",
+    "currentDistrictIds": [
+      "P2.D07"
+    ],
+    "slug": "sarlahi",
+    "aliases": []
+  },
+  {
+    "id": "LD20",
+    "nameEn": "Ramechhap",
+    "nameNe": "रामेछाप",
+    "zoneId": "Z04",
+    "currentDistrictIds": [
+      "P3.D10"
+    ],
+    "slug": "ramechhap",
+    "aliases": []
+  },
+  {
+    "id": "LD21",
+    "nameEn": "Dolakha",
+    "nameNe": "दोलखा",
+    "zoneId": "Z04",
+    "currentDistrictIds": [
+      "P3.D04"
+    ],
+    "slug": "dolakha",
+    "aliases": []
+  },
+  {
+    "id": "LD22",
+    "nameEn": "Sindhuli",
+    "nameNe": "सिन्धुली",
+    "zoneId": "Z04",
+    "currentDistrictIds": [
+      "P3.D12"
+    ],
+    "slug": "sindhuli",
+    "aliases": []
+  },
+  {
+    "id": "LD23",
+    "nameEn": "Kathmandu",
+    "nameNe": "काठमाडौँ",
+    "zoneId": "Z05",
+    "currentDistrictIds": [
+      "P3.D05"
+    ],
+    "slug": "kathmandu",
+    "aliases": [
+      "KTM"
+    ]
+  },
+  {
+    "id": "LD24",
+    "nameEn": "Lalitpur",
+    "nameNe": "ललितपुर",
+    "zoneId": "Z05",
+    "currentDistrictIds": [
+      "P3.D07"
+    ],
+    "slug": "lalitpur",
+    "aliases": [
+      "Patan"
+    ]
+  },
+  {
+    "id": "LD25",
+    "nameEn": "Bhaktapur",
+    "nameNe": "भक्तपुर",
+    "zoneId": "Z05",
+    "currentDistrictIds": [
+      "P3.D01"
+    ],
+    "slug": "bhaktapur",
+    "aliases": []
+  },
+  {
+    "id": "LD26",
+    "nameEn": "Kavrepalanchok",
+    "nameNe": "काभ्रेपलाञ्चोक",
+    "zoneId": "Z05",
+    "currentDistrictIds": [
+      "P3.D06"
+    ],
+    "slug": "kavrepalanchok",
+    "aliases": [
+      "Kavre",
+      "Kabhre"
+    ]
+  },
+  {
+    "id": "LD27",
+    "nameEn": "Sindhupalchok",
+    "nameNe": "सिन्धुपाल्चोक",
+    "zoneId": "Z05",
+    "currentDistrictIds": [
+      "P3.D13"
+    ],
+    "slug": "sindhupalchok",
+    "aliases": []
+  },
+  {
+    "id": "LD28",
+    "nameEn": "Nuwakot",
+    "nameNe": "नुवाकोट",
+    "zoneId": "Z05",
+    "currentDistrictIds": [
+      "P3.D09"
+    ],
+    "slug": "nuwakot",
+    "aliases": []
+  },
+  {
+    "id": "LD29",
+    "nameEn": "Rasuwa",
+    "nameNe": "रसुवा",
+    "zoneId": "Z05",
+    "currentDistrictIds": [
+      "P3.D11"
+    ],
+    "slug": "rasuwa",
+    "aliases": []
+  },
+  {
+    "id": "LD30",
+    "nameEn": "Dhading",
+    "nameNe": "धादिङ",
+    "zoneId": "Z05",
+    "currentDistrictIds": [
+      "P3.D03"
+    ],
+    "slug": "dhading",
+    "aliases": []
+  },
+  {
+    "id": "LD31",
+    "nameEn": "Bara",
+    "nameNe": "बारा",
+    "zoneId": "Z06",
+    "currentDistrictIds": [
+      "P2.D01"
+    ],
+    "slug": "bara",
+    "aliases": []
+  },
+  {
+    "id": "LD32",
+    "nameEn": "Parsa",
+    "nameNe": "पर्सा",
+    "zoneId": "Z06",
+    "currentDistrictIds": [
+      "P2.D04"
+    ],
+    "slug": "parsa",
+    "aliases": []
+  },
+  {
+    "id": "LD33",
+    "nameEn": "Rautahat",
+    "nameNe": "रौतहट",
+    "zoneId": "Z06",
+    "currentDistrictIds": [
+      "P2.D05"
+    ],
+    "slug": "rautahat",
+    "aliases": []
+  },
+  {
+    "id": "LD34",
+    "nameEn": "Chitwan",
+    "nameNe": "चितवन",
+    "zoneId": "Z06",
+    "currentDistrictIds": [
+      "P3.D02"
+    ],
+    "slug": "chitwan",
+    "aliases": []
+  },
+  {
+    "id": "LD35",
+    "nameEn": "Makwanpur",
+    "nameNe": "मकवानपुर",
+    "zoneId": "Z06",
+    "currentDistrictIds": [
+      "P3.D08"
+    ],
+    "slug": "makwanpur",
+    "aliases": []
+  },
+  {
+    "id": "LD36",
+    "nameEn": "Gorkha",
+    "nameNe": "गोरखा",
+    "zoneId": "Z07",
+    "currentDistrictIds": [
+      "P4.D02"
+    ],
+    "slug": "gorkha",
+    "aliases": []
+  },
+  {
+    "id": "LD37",
+    "nameEn": "Lamjung",
+    "nameNe": "लमजुङ",
+    "zoneId": "Z07",
+    "currentDistrictIds": [
+      "P4.D04"
+    ],
+    "slug": "lamjung",
+    "aliases": []
+  },
+  {
+    "id": "LD38",
+    "nameEn": "Tanahun",
+    "nameNe": "तनहुँ",
+    "zoneId": "Z07",
+    "currentDistrictIds": [
+      "P4.D11"
+    ],
+    "slug": "tanahun",
+    "aliases": []
+  },
+  {
+    "id": "LD39",
+    "nameEn": "Syangja",
+    "nameNe": "स्याङ्जा",
+    "zoneId": "Z07",
+    "currentDistrictIds": [
+      "P4.D10"
+    ],
+    "slug": "syangja",
+    "aliases": []
+  },
+  {
+    "id": "LD40",
+    "nameEn": "Kaski",
+    "nameNe": "कास्की",
+    "zoneId": "Z07",
+    "currentDistrictIds": [
+      "P4.D03"
+    ],
+    "slug": "kaski",
+    "aliases": []
+  },
+  {
+    "id": "LD41",
+    "nameEn": "Manang",
+    "nameNe": "मनाङ",
+    "zoneId": "Z07",
+    "currentDistrictIds": [
+      "P4.D05"
+    ],
+    "slug": "manang",
+    "aliases": []
+  },
+  {
+    "id": "LD42",
+    "nameEn": "Nawalparasi",
+    "nameNe": "नवलपरासी",
+    "zoneId": "Z08",
+    "currentDistrictIds": [
+      "P4.D08",
+      "P5.D09"
+    ],
+    "slug": "nawalparasi",
+    "aliases": [
+      "Nawalparasi (legacy)",
+      "Nawalparasi-pre-2017"
+    ]
+  },
+  {
+    "id": "LD43",
+    "nameEn": "Rupandehi",
+    "nameNe": "रुपन्देही",
+    "zoneId": "Z08",
+    "currentDistrictIds": [
+      "P5.D12"
+    ],
+    "slug": "rupandehi",
+    "aliases": [
+      "Bhairahawa"
+    ]
+  },
+  {
+    "id": "LD44",
+    "nameEn": "Kapilvastu",
+    "nameNe": "कपिलवस्तु",
+    "zoneId": "Z08",
+    "currentDistrictIds": [
+      "P5.D07"
+    ],
+    "slug": "kapilvastu",
+    "aliases": []
+  },
+  {
+    "id": "LD45",
+    "nameEn": "Palpa",
+    "nameNe": "पाल्पा",
+    "zoneId": "Z08",
+    "currentDistrictIds": [
+      "P5.D08"
+    ],
+    "slug": "palpa",
+    "aliases": []
+  },
+  {
+    "id": "LD46",
+    "nameEn": "Arghakhanchi",
+    "nameNe": "अर्घाखाँची",
+    "zoneId": "Z08",
+    "currentDistrictIds": [
+      "P5.D01"
+    ],
+    "slug": "arghakhanchi",
+    "aliases": []
+  },
+  {
+    "id": "LD47",
+    "nameEn": "Gulmi",
+    "nameNe": "गुल्मी",
+    "zoneId": "Z08",
+    "currentDistrictIds": [
+      "P5.D06"
+    ],
+    "slug": "gulmi",
+    "aliases": []
+  },
+  {
+    "id": "LD48",
+    "nameEn": "Mustang",
+    "nameNe": "मुस्ताङ",
+    "zoneId": "Z09",
+    "currentDistrictIds": [
+      "P4.D06"
+    ],
+    "slug": "mustang",
+    "aliases": []
+  },
+  {
+    "id": "LD49",
+    "nameEn": "Myagdi",
+    "nameNe": "म्याग्दी",
+    "zoneId": "Z09",
+    "currentDistrictIds": [
+      "P4.D07"
+    ],
+    "slug": "myagdi",
+    "aliases": []
+  },
+  {
+    "id": "LD50",
+    "nameEn": "Parbat",
+    "nameNe": "पर्बत",
+    "zoneId": "Z09",
+    "currentDistrictIds": [
+      "P4.D09"
+    ],
+    "slug": "parbat",
+    "aliases": []
+  },
+  {
+    "id": "LD51",
+    "nameEn": "Baglung",
+    "nameNe": "बाग्लुङ",
+    "zoneId": "Z09",
+    "currentDistrictIds": [
+      "P4.D01"
+    ],
+    "slug": "baglung",
+    "aliases": []
+  },
+  {
+    "id": "LD52",
+    "nameEn": "Pyuthan",
+    "nameNe": "प्युठान",
+    "zoneId": "Z10",
+    "currentDistrictIds": [
+      "P5.D10"
+    ],
+    "slug": "pyuthan",
+    "aliases": []
+  },
+  {
+    "id": "LD53",
+    "nameEn": "Salyan",
+    "nameNe": "सल्यान",
+    "zoneId": "Z10",
+    "currentDistrictIds": [
+      "P6.D08"
+    ],
+    "slug": "salyan",
+    "aliases": []
+  },
+  {
+    "id": "LD54",
+    "nameEn": "Rolpa",
+    "nameNe": "रोल्पा",
+    "zoneId": "Z10",
+    "currentDistrictIds": [
+      "P5.D11"
+    ],
+    "slug": "rolpa",
+    "aliases": []
+  },
+  {
+    "id": "LD55",
+    "nameEn": "Rukum",
+    "nameNe": "रुकुम",
+    "zoneId": "Z10",
+    "currentDistrictIds": [
+      "P5.D05",
+      "P6.D10"
+    ],
+    "slug": "rukum",
+    "aliases": [
+      "Rukum (legacy)",
+      "Rukum-pre-2017"
+    ]
+  },
+  {
+    "id": "LD56",
+    "nameEn": "Dang",
+    "nameNe": "दाङ",
+    "zoneId": "Z10",
+    "currentDistrictIds": [
+      "P5.D04"
+    ],
+    "slug": "dang",
+    "aliases": [
+      "Dang Deukhuri"
+    ]
+  },
+  {
+    "id": "LD57",
+    "nameEn": "Banke",
+    "nameNe": "बाँके",
+    "zoneId": "Z11",
+    "currentDistrictIds": [
+      "P5.D02"
+    ],
+    "slug": "banke",
+    "aliases": []
+  },
+  {
+    "id": "LD58",
+    "nameEn": "Bardiya",
+    "nameNe": "बर्दिया",
+    "zoneId": "Z11",
+    "currentDistrictIds": [
+      "P5.D03"
+    ],
+    "slug": "bardiya",
+    "aliases": []
+  },
+  {
+    "id": "LD59",
+    "nameEn": "Surkhet",
+    "nameNe": "सुर्खेत",
+    "zoneId": "Z11",
+    "currentDistrictIds": [
+      "P6.D09"
+    ],
+    "slug": "surkhet",
+    "aliases": []
+  },
+  {
+    "id": "LD60",
+    "nameEn": "Dailekh",
+    "nameNe": "दैलेख",
+    "zoneId": "Z11",
+    "currentDistrictIds": [
+      "P6.D01"
+    ],
+    "slug": "dailekh",
+    "aliases": []
+  },
+  {
+    "id": "LD61",
+    "nameEn": "Jajarkot",
+    "nameNe": "जाजरकोट",
+    "zoneId": "Z11",
+    "currentDistrictIds": [
+      "P6.D04"
+    ],
+    "slug": "jajarkot",
+    "aliases": []
+  },
+  {
+    "id": "LD62",
+    "nameEn": "Jumla",
+    "nameNe": "जुम्ला",
+    "zoneId": "Z12",
+    "currentDistrictIds": [
+      "P6.D05"
+    ],
+    "slug": "jumla",
+    "aliases": []
+  },
+  {
+    "id": "LD63",
+    "nameEn": "Kalikot",
+    "nameNe": "कालिकोट",
+    "zoneId": "Z12",
+    "currentDistrictIds": [
+      "P6.D06"
+    ],
+    "slug": "kalikot",
+    "aliases": []
+  },
+  {
+    "id": "LD64",
+    "nameEn": "Mugu",
+    "nameNe": "मुगु",
+    "zoneId": "Z12",
+    "currentDistrictIds": [
+      "P6.D07"
+    ],
+    "slug": "mugu",
+    "aliases": []
+  },
+  {
+    "id": "LD65",
+    "nameEn": "Humla",
+    "nameNe": "हुम्ला",
+    "zoneId": "Z12",
+    "currentDistrictIds": [
+      "P6.D03"
+    ],
+    "slug": "humla",
+    "aliases": []
+  },
+  {
+    "id": "LD66",
+    "nameEn": "Dolpa",
+    "nameNe": "डोल्पा",
+    "zoneId": "Z12",
+    "currentDistrictIds": [
+      "P6.D02"
+    ],
+    "slug": "dolpa",
+    "aliases": []
+  },
+  {
+    "id": "LD67",
+    "nameEn": "Kailali",
+    "nameNe": "कैलाली",
+    "zoneId": "Z13",
+    "currentDistrictIds": [
+      "P7.D08"
+    ],
+    "slug": "kailali",
+    "aliases": []
+  },
+  {
+    "id": "LD68",
+    "nameEn": "Achham",
+    "nameNe": "अछाम",
+    "zoneId": "Z13",
+    "currentDistrictIds": [
+      "P7.D01"
+    ],
+    "slug": "achham",
+    "aliases": []
+  },
+  {
+    "id": "LD69",
+    "nameEn": "Doti",
+    "nameNe": "डोटी",
+    "zoneId": "Z13",
+    "currentDistrictIds": [
+      "P7.D07"
+    ],
+    "slug": "doti",
+    "aliases": []
+  },
+  {
+    "id": "LD70",
+    "nameEn": "Bajura",
+    "nameNe": "बाजुरा",
+    "zoneId": "Z13",
+    "currentDistrictIds": [
+      "P7.D04"
+    ],
+    "slug": "bajura",
+    "aliases": []
+  },
+  {
+    "id": "LD71",
+    "nameEn": "Bajhang",
+    "nameNe": "बझाङ",
+    "zoneId": "Z13",
+    "currentDistrictIds": [
+      "P7.D03"
+    ],
+    "slug": "bajhang",
+    "aliases": []
+  },
+  {
+    "id": "LD72",
+    "nameEn": "Kanchanpur",
+    "nameNe": "कञ्चनपुर",
+    "zoneId": "Z14",
+    "currentDistrictIds": [
+      "P7.D09"
+    ],
+    "slug": "kanchanpur",
+    "aliases": [
+      "Mahendranagar"
+    ]
+  },
+  {
+    "id": "LD73",
+    "nameEn": "Dadeldhura",
+    "nameNe": "डडेल्धुरा",
+    "zoneId": "Z14",
+    "currentDistrictIds": [
+      "P7.D05"
+    ],
+    "slug": "dadeldhura",
+    "aliases": []
+  },
+  {
+    "id": "LD74",
+    "nameEn": "Baitadi",
+    "nameNe": "बैतडी",
+    "zoneId": "Z14",
+    "currentDistrictIds": [
+      "P7.D02"
+    ],
+    "slug": "baitadi",
+    "aliases": []
+  },
+  {
+    "id": "LD75",
+    "nameEn": "Darchula",
+    "nameNe": "दार्चुला",
+    "zoneId": "Z14",
+    "currentDistrictIds": [
+      "P7.D06"
+    ],
+    "slug": "darchula",
+    "aliases": []
+  }
+]
