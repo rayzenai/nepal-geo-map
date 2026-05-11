@@ -74,14 +74,37 @@ known aliases. Indexes are built once per request and cached.
 
 ## JavaScript / Svelte
 
-```bash
-npm i @rayzenai/nepali-geo-map
+The Composer install already drops the entire JS source under
+`vendor/rayzenai/nepali-geo-map/js/src/` — **no separate `npm install`
+needed**. Wire it up via a Vite + TypeScript alias:
+
+```ts
+// vite.config.ts
+import { fileURLToPath } from 'node:url';
+
+export default defineConfig({
+    resolve: {
+        alias: {
+            '@nepali-geo-map': fileURLToPath(
+                new URL('./vendor/rayzenai/nepali-geo-map/js/src', import.meta.url),
+            ),
+        },
+    },
+});
+```
+
+```json
+// tsconfig.json
+"paths": {
+    "@nepali-geo-map": ["./vendor/rayzenai/nepali-geo-map/js/src/index.ts"],
+    "@nepali-geo-map/*": ["./vendor/rayzenai/nepali-geo-map/js/src/*"]
+}
 ```
 
 ```svelte
 <script lang="ts">
-    import NepalMap from '@rayzenai/nepali-geo-map/svelte';
-    import { getDistrict, findByPostalCode, search } from '@rayzenai/nepali-geo-map';
+    import NepalMap from '@nepali-geo-map/components/NepalMap.svelte';
+    import { getDistrict, findByPostalCode, search } from '@nepali-geo-map';
 
     // District counts keyed by package slug; pass a slugRemap if your DB
     // uses different keys (e.g. 'rukum-east' vs the package's 'eastern-rukum').
@@ -95,6 +118,13 @@ npm i @rayzenai/nepali-geo-map
     class="aspect-[16/10] w-full"
 />
 ```
+
+`composer update` refreshes both PHP and JS together — no two-place
+version drift.
+
+> Using this from a non-Laravel JS project? The package has a `package.json`
+> too, so `npm i github:rayzenai/nepal-geo-map` works as well. The Vite
+> alias is just the simpler path when you're already running Composer.
 
 Full JS surface (tree-shakeable):
 
