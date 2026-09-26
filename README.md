@@ -20,7 +20,7 @@ data so there are **zero runtime dependencies on third-party packages**.
 - **Address utilities** — formatter (short / long / postal styles), free-form parser, validator.
 - **Fuzzy bilingual search** across all entities.
 - **Point-in-polygon** — turn `(lat, lng)` into the containing province / district / palika.
-- **Interactive Svelte map** — heatmap fill, hover overlay, configurable slug remap.
+- **Interactive Svelte map** — hand-drawn district outlines, heatmap fill, hover overlay, configurable slug remap.
 
 ## PHP / Laravel
 
@@ -134,6 +134,7 @@ import {
     PROVINCES, DISTRICTS, LOCAL_UNITS, REGIONS, ZONES, LEGACY_DISTRICTS,
     POSTAL_CODES, POSTAL_CODES_2025, POSTAL_CODE_BRANCHES,
     NEPAL_PROVINCES_GEO, NEPAL_DISTRICTS_GEO, NEPAL_LOCAL_UNITS_GEO,
+    NEPAL_DISTRICTS_SVG, // display-only outlines used by <NepalMap />
 
     // Lookups
     getProvince, getDistrict, getLocalUnit,
@@ -183,6 +184,7 @@ nepali-geo-map/
 │   ├── regions.json / zones.json    # pre-2015 dev-region structure
 │   ├── legacy-districts.json        # pre-2017 75-district map + crosswalk
 │   ├── nepal-*.json                 # GeoJSON FeatureCollections
+│   ├── nepal-districts-svg.json     # hand-drawn SVG district outlines (display only)
 │   └── meta.json
 ├── src/                             # PHP (PSR-4 → RayzenAI\NepaliGeoMap\)
 │   ├── NepaliGeoMap.php                # the static facade

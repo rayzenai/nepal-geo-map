@@ -138,3 +138,9 @@ export interface LocalUnitGeoFeatureCollection {
 }
 
 export type AdminFeature = ProvinceGeoFeature | DistrictGeoFeature | LocalUnitGeoFeature;
+
+/** Hand-drawn district outlines for display. Not in lat/lng space. */
+export interface DistrictSvgMap {
+    readonly viewBox: string;
+    readonly districts: readonly { readonly id: DistrictId; readonly d: string }[];
+}

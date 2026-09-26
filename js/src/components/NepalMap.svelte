@@ -1,6 +1,5 @@
 <script lang="ts">
-    import { DISTRICTS, NEPAL_DISTRICTS_GEO, PROVINCES } from '../data';
-    import { toSvgPaths } from '../geo';
+    import { DISTRICTS, NEPAL_DISTRICTS_SVG, PROVINCES } from '../data';
 
     type Props = {
         /** Counts keyed by district slug — drives the heatmap intensity. */
@@ -53,36 +52,27 @@
 
     const remap = (slug: string): string => slugRemap[slug] ?? slug;
 
-    // Project once. `toSvgPaths` produces a 1250-wide viewBox so the SVG matches
-    // typical map containers, but caller can resize freely via CSS / `class`.
-    const projection = toSvgPaths(NEPAL_DISTRICTS_GEO, { width: 1250, padding: 8 });
-    const VIEW_BOX = projection.viewBox;
-    const [, , vbW, vbH] = VIEW_BOX.split(' ').map(Number);
+    // Hand-drawn outlines (pre-projected), so the map keeps the familiar
+    // Nepal shape. Caller can resize freely via CSS / `class`.
+    const VIEW_BOX = NEPAL_DISTRICTS_SVG.viewBox;
+    const [vbX, vbY, vbW, vbH] = VIEW_BOX.split(' ').map(Number);
 
     type DistrictPath = {
         slug: string;
         d: string;
         provinceNum: number;
-        nameEn: string;
     };
 
-    // id -> slug, declared *before* `districtPaths` so the eager `.map()`
+    // id -> district, declared *before* `districtPaths` so the eager `.map()`
     // below can read it without tripping the TDZ in bundled output.
-    const districtBySource = new Map(DISTRICTS.map((d) => [d.id, d.slug]));
+    const districtById = new Map(DISTRICTS.map((d) => [d.id, d]));
 
-    const districtPaths: DistrictPath[] = projection.paths.map((p) => {
-        // `toSvgPaths` is generic over the feature type, so `properties`
-        // already narrows to the DistrictGeoFeature shape here.
-        const { id, provinceId, nameEn } = p.feature.properties as {
-            id: import('../types').DistrictId;
-            provinceId: import('../types').ProvinceId;
-            nameEn: string;
-        };
+    const districtPaths: DistrictPath[] = NEPAL_DISTRICTS_SVG.districts.map(({ id, d }) => {
+        const district = districtById.get(id);
         return {
-            slug: remap(districtBySource.get(id) ?? id),
-            d: p.d,
-            provinceNum: provinceNumberById.get(provinceId) ?? 0,
-            nameEn,
+            slug: remap(district?.slug ?? id),
+            d,
+            provinceNum: (district && provinceNumberById.get(district.provinceId)) ?? 0,
         };
     });
 
@@ -228,13 +218,13 @@
                         {/each}
                     </clipPath>
                     <mask id="hover-mask">
-                        <rect x="0" y="0" width={vbW} height={vbH} fill="white" />
+                        <rect x={vbX} y={vbY} width={vbW} height={vbH} fill="white" />
                         <path d={active.d} fill="black" />
                     </mask>
                 </defs>
                 <rect
-                    x="0"
-                    y="0"
+                    x={vbX}
+                    y={vbY}
                     width={vbW}
                     height={vbH}
                     fill="rgba(0,0,0,0.4)"

@@ -15,6 +15,7 @@ import meta from '../../data/meta.json';
 import nepalProvincesGeo from '../../data/nepal-provinces.json';
 import nepalDistrictsGeo from '../../data/nepal-districts.json';
 import nepalLocalUnitsGeo from '../../data/nepal-local-units.json';
+import nepalDistrictsSvg from '../../data/nepal-districts-svg.json';
 
 import type {
     Province,
@@ -26,6 +27,7 @@ import type {
     DistrictGeoFeatureCollection,
     ProvinceGeoFeatureCollection,
     LocalUnitGeoFeatureCollection,
+    DistrictSvgMap,
 } from './types';
 
 export const PROVINCES = provinces as readonly Province[];
@@ -58,3 +60,6 @@ export const META = meta as {
 export const NEPAL_PROVINCES_GEO = nepalProvincesGeo as unknown as ProvinceGeoFeatureCollection;
 export const NEPAL_DISTRICTS_GEO = nepalDistrictsGeo as unknown as DistrictGeoFeatureCollection;
 export const NEPAL_LOCAL_UNITS_GEO = nepalLocalUnitsGeo as unknown as LocalUnitGeoFeatureCollection;
+
+// Display-only district outlines rendered by <NepalMap />.
+export const NEPAL_DISTRICTS_SVG = nepalDistrictsSvg as DistrictSvgMap;
