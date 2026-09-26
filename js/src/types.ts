@@ -142,5 +142,11 @@ export type AdminFeature = ProvinceGeoFeature | DistrictGeoFeature | LocalUnitGe
 /** Hand-drawn district outlines for display. Not in lat/lng space. */
 export interface DistrictSvgMap {
     readonly viewBox: string;
-    readonly districts: readonly { readonly id: DistrictId; readonly d: string }[];
+    /** `x`/`y` is a label/marker anchor inside the district, in viewBox units. */
+    readonly districts: readonly {
+        readonly id: DistrictId;
+        readonly x: number;
+        readonly y: number;
+        readonly d: string;
+    }[];
 }
