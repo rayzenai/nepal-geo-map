@@ -8,7 +8,8 @@ import {
 } from './lookup';
 
 export interface AddressParts {
-    ward?: number | null;
+    /** Strings (e.g. raw form input) are coerced; `''` means no ward. */
+    ward?: number | string | null;
     tole?: string | null;
     localUnit?: string | null;
     district?: string | null;
